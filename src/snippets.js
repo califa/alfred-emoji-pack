@@ -1,5 +1,6 @@
 const gemoji = require('gemoji');
 const uuidv4 = require('uuid/v4');
+const otherSnippets = require('./otherSnippetsAndEmojis.js');
 
 module.exports = function () {
 
@@ -23,25 +24,7 @@ module.exports = function () {
         snippets.push(snippetContent);
     });
 
-    snippets.push({
-        alfredsnippet: {
-            snippet: "joelcalifa.com\/blog\/alfred-emoji-snippet-pack",
-            uid: uuidv4(),
-            dontautoexpand: true,
-            name: '# more info here:',
-            keyword: '# read the blog post'
-        }
-    });
-
-    snippets.push({
-        alfredsnippet: {
-            snippet: "twitter.com\/notdetails",
-            uid: uuidv4(),
-            dontautoexpand: true,
-            name: '# by Joel Califa',
-            keyword: '# say hi on twitter'
-        }
-    });
+    otherSnippets.forEach(snippet => snippets.push(snippet));
 
     // Remove Duplicate Snippets
     return snippets.filter((obj, pos, arr) => {
