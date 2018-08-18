@@ -1,0 +1,17 @@
+{
+  "name": "alfred-emoji-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "gemoji": "^4.2.1",
+    "uuid": "^3.3.2"
+  }
+}
