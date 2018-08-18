@@ -19,4 +19,52 @@ module.exports = [
             keyword: '# say hi on twitter'
         }
     },
+    {
+        alfredsnippet: {
+            snippet: "🤯",
+            uid: uuidv4(),
+            name: '🤯 :mind_blown:',
+            keyword: ':mind_blown:'
+        }
+    },
+    {
+        alfredsnippet: {
+            snippet: "🤮",
+            uid: uuidv4(),
+            name: '🤮 :vomiting_face:',
+            keyword: ':vomiting_face:'
+        }
+    },
+    {
+        alfredsnippet: {
+            snippet: "🤫",
+            uid: uuidv4(),
+            name: '🤫 :shushing:',
+            keyword: ':shushing:'
+        }
+    },
+    {
+        alfredsnippet: {
+            snippet: "🧐",
+            uid: uuidv4(),
+            name: '🧐 :monocle:',
+            keyword: ':monocle:'
+        }
+    },
+    {
+        alfredsnippet: {
+            snippet: "🦖",
+            uid: uuidv4(),
+            name: '🦖 :t_rex:',
+            keyword: ':t_rex:'
+        }
+    },
+    {
+        alfredsnippet: {
+            snippet: "🥥",
+            uid: uuidv4(),
+            name: '🥥 :coconut:',
+            keyword: ':coconut:'
+        }
+    },
 ];
