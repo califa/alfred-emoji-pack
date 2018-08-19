@@ -11,12 +11,13 @@ module.exports = function () {
         let emoji = gemoji.name[emojiName];
         let uuid = uuidv4();
 
+        let names = emoji.names.join(' ').replace(/_/g, ' ');
         // Build JSON used by Alfred
         let snippetContent = {
             alfredsnippet: {
                 snippet: emoji.emoji,
                 uid: uuid,
-                name: `${emoji.emoji} :${emoji.name}:`,
+                name: `${emoji.emoji} ${names}`,
                 keyword: `:${emoji.name}:`
             }
         };
