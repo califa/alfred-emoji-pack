@@ -12,12 +12,14 @@ module.exports = function () {
         let uuid = uuidv4();
 
         let names = emoji.names.join(' ').replace(/_/g, ' ');
+        let tags = emoji.tags.join(' ');
+
         // Build JSON used by Alfred
         let snippetContent = {
             alfredsnippet: {
                 snippet: emoji.emoji,
                 uid: uuid,
-                name: `${emoji.emoji} ${names}`,
+                name: `${emoji.emoji} ${names} ${tags ? `- ${tags}` : ``}`,
                 keyword: `:${emoji.name}:`
             }
         };
