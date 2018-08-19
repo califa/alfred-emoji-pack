@@ -23,7 +23,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🤯",
             uid: uuidv4(),
-            name: '🤯 :mind_blown:',
+            name: '🤯 mind blown',
             keyword: ':mind_blown:'
         }
     },
@@ -31,7 +31,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🤮",
             uid: uuidv4(),
-            name: '🤮 :vomiting_face:',
+            name: '🤮 vomiting face',
             keyword: ':vomiting_face:'
         }
     },
@@ -39,7 +39,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🤫",
             uid: uuidv4(),
-            name: '🤫 :shushing:',
+            name: '🤫 shushing',
             keyword: ':shushing:'
         }
     },
@@ -47,7 +47,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🧐",
             uid: uuidv4(),
-            name: '🧐 :monocle:',
+            name: '🧐 monocle',
             keyword: ':monocle:'
         }
     },
@@ -55,7 +55,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🦖",
             uid: uuidv4(),
-            name: '🦖 :t_rex:',
+            name: '🦖 t-rex',
             keyword: ':t_rex:'
         }
     },
@@ -63,7 +63,7 @@ module.exports = [
         alfredsnippet: {
             snippet: "🥥",
             uid: uuidv4(),
-            name: '🥥 :coconut:',
+            name: '🥥 coconut',
             keyword: ':coconut:'
         }
     },
