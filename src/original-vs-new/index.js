@@ -2,7 +2,7 @@ const fs = require('fs');
 const util = require('util');
 const readFile = util.promisify(fs.readFile);
 
-const generateNewSnippets = require('./src/snippets');
+const generateNewSnippets = require('../build-snippets-archive/snippets');
 
 async function getOriginalSnippets() {
     return await readFile('./original-emoji-pack/original-snippets.json', 'utf-8');
