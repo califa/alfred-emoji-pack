@@ -2,9 +2,9 @@
   "name": "alfred-emoji-pack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/build-snippets-archive/index.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node src/build-snippets-archive/index.js"
   },
   "keywords": [],
   "author": "",
