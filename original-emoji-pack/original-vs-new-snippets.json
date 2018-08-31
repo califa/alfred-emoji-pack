@@ -1,0 +1,6561 @@
+[
+  {
+    "originalSnippet": {
+      "name": "🚴 :bicyclist:",
+      "snippet": "🚴",
+      "keyword": ":bicyclist:"
+    },
+    "newSnippet": {
+      "name": "🚴 biking man bicyclist ",
+      "snippet": "🚴",
+      "keyword": ":biking man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙇 :bow:",
+      "snippet": "🙇",
+      "keyword": ":bow:"
+    },
+    "newSnippet": {
+      "name": "🙇 bowing man bow - respect thanks",
+      "snippet": "🙇",
+      "keyword": ":bowing man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💥 :collision:",
+      "snippet": "💥",
+      "keyword": ":collision:"
+    },
+    "newSnippet": {
+      "name": "💥 boom collision - explode",
+      "snippet": "💥",
+      "keyword": ":boom:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗜 :compression:",
+      "snippet": "🗜",
+      "keyword": ":compression:"
+    },
+    "newSnippet": {
+      "name": "🗜 clamp ",
+      "snippet": "🗜",
+      "keyword": ":clamp:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👷 :construction worker:",
+      "snippet": "👷",
+      "keyword": ":construction worker:"
+    },
+    "newSnippet": {
+      "name": "👷 construction worker man construction worker - helmet",
+      "snippet": "👷",
+      "keyword": ":construction worker man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👮 :cop:",
+      "snippet": "👮",
+      "keyword": ":cop:"
+    },
+    "newSnippet": {
+      "name": "👮 policeman cop - police law",
+      "snippet": "👮",
+      "keyword": ":policeman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👯 :dancers:",
+      "snippet": "👯",
+      "keyword": ":dancers:"
+    },
+    "newSnippet": {
+      "name": "👯 dancing women dancers - bunny",
+      "snippet": "👯",
+      "keyword": ":dancing women:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏏ :eject:",
+      "snippet": "⏏",
+      "keyword": ":eject:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✉ :envelope:",
+      "snippet": "✉",
+      "keyword": ":envelope:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👪 :family:",
+      "snippet": "👪",
+      "keyword": ":family:"
+    },
+    "newSnippet": {
+      "name": "👪 family man woman boy family - home parents child",
+      "snippet": "👪",
+      "keyword": ":family man woman boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✊ :fist:",
+      "snippet": "✊",
+      "keyword": ":fist:"
+    },
+    "newSnippet": {
+      "name": "✊ fist raised fist - power",
+      "snippet": "✊",
+      "keyword": ":fist raised:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐬 :flipper:",
+      "snippet": "🐬",
+      "keyword": ":flipper:"
+    },
+    "newSnippet": {
+      "name": "🐬 dolphin flipper ",
+      "snippet": "🐬",
+      "keyword": ":dolphin:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖼 :frame with picture:",
+      "snippet": "🖼",
+      "keyword": ":frame with picture:"
+    },
+    "newSnippet": {
+      "name": "🖼 framed picture ",
+      "snippet": "🖼",
+      "keyword": ":framed picture:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏌 :golfer:",
+      "snippet": "🏌",
+      "keyword": ":golfer:"
+    },
+    "newSnippet": {
+      "name": "🏌 golfing man ",
+      "snippet": "🏌",
+      "keyword": ":golfing man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💇 :haircut:",
+      "snippet": "💇",
+      "keyword": ":haircut:"
+    },
+    "newSnippet": {
+      "name": "💇 haircut woman haircut - beauty",
+      "snippet": "💇",
+      "keyword": ":haircut woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "❗ :heavy exclamation mark:",
+      "snippet": "❗",
+      "keyword": ":heavy exclamation mark:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛑ :helmet with white cross:",
+      "snippet": "⛑",
+      "keyword": ":helmet with white cross:"
+    },
+    "newSnippet": {
+      "name": "⛑ rescue worker helmet ",
+      "snippet": "⛑",
+      "keyword": ":rescue worker helmet:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐝 :honeybee:",
+      "snippet": "🐝",
+      "keyword": ":honeybee:"
+    },
+    "newSnippet": {
+      "name": "🐝 bee honeybee ",
+      "snippet": "🐝",
+      "keyword": ":bee:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏘 :house buildings:",
+      "snippet": "🏘",
+      "keyword": ":house buildings:"
+    },
+    "newSnippet": {
+      "name": "🏘 houses ",
+      "snippet": "🏘",
+      "keyword": ":houses:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "*⃣ :keycap star:",
+      "snippet": "*⃣",
+      "keyword": ":keycap star:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔪 :knife:",
+      "snippet": "🔪",
+      "keyword": ":knife:"
+    },
+    "newSnippet": {
+      "name": "🔪 hocho knife - cut chop",
+      "snippet": "🔪",
+      "keyword": ":hocho:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏮 :lantern:",
+      "snippet": "🏮",
+      "keyword": ":lantern:"
+    },
+    "newSnippet": {
+      "name": "🏮 izakaya lantern lantern ",
+      "snippet": "🏮",
+      "keyword": ":izakaya lantern:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌩 :lightning:",
+      "snippet": "🌩",
+      "keyword": ":lightning:"
+    },
+    "newSnippet": {
+      "name": "🌩 cloud with lightning ",
+      "snippet": "🌩",
+      "keyword": ":cloud with lightning:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍❤️‍👨 :man heart man:",
+      "snippet": "👨‍❤️‍👨",
+      "keyword": ":man heart man:"
+    },
+    "newSnippet": {
+      "name": "👨‍❤️‍👨 couple with heart man man ",
+      "snippet": "👨‍❤️‍👨",
+      "keyword": ":couple with heart man man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍❤️‍💋‍👨 :man kiss man:",
+      "snippet": "👨‍❤️‍💋‍👨",
+      "keyword": ":man kiss man:"
+    },
+    "newSnippet": {
+      "name": "👨‍❤️‍💋‍👨 couplekiss man man ",
+      "snippet": "👨‍❤️‍💋‍👨",
+      "keyword": ":couplekiss man man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👨‍👦 :man man boy:",
+      "snippet": "👨‍👨‍👦",
+      "keyword": ":man man boy:"
+    },
+    "newSnippet": {
+      "name": "👨‍👨‍👦 family man man boy ",
+      "snippet": "👨‍👨‍👦",
+      "keyword": ":family man man boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👨‍👦‍👦 :man man boy boy:",
+      "snippet": "👨‍👨‍👦‍👦",
+      "keyword": ":man man boy boy:"
+    },
+    "newSnippet": {
+      "name": "👨‍👨‍👦‍👦 family man man boy boy ",
+      "snippet": "👨‍👨‍👦‍👦",
+      "keyword": ":family man man boy boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👨‍👧 :man man girl:",
+      "snippet": "👨‍👨‍👧",
+      "keyword": ":man man girl:"
+    },
+    "newSnippet": {
+      "name": "👨‍👨‍👧 family man man girl ",
+      "snippet": "👨‍👨‍👧",
+      "keyword": ":family man man girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👨‍👧‍👦 :man man girl boy:",
+      "snippet": "👨‍👨‍👧‍👦",
+      "keyword": ":man man girl boy:"
+    },
+    "newSnippet": {
+      "name": "👨‍👨‍👧‍👦 family man man girl boy ",
+      "snippet": "👨‍👨‍👧‍👦",
+      "keyword": ":family man man girl boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👨‍👧‍👧 :man man girl girl:",
+      "snippet": "👨‍👨‍👧‍👧",
+      "keyword": ":man man girl girl:"
+    },
+    "newSnippet": {
+      "name": "👨‍👨‍👧‍👧 family man man girl girl ",
+      "snippet": "👨‍👨‍👧‍👧",
+      "keyword": ":family man man girl girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👪 :man woman boy:",
+      "snippet": "👪",
+      "keyword": ":man woman boy:"
+    },
+    "newSnippet": {
+      "name": "👪 family man woman boy family - home parents child",
+      "snippet": "👪",
+      "keyword": ":family man woman boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👩‍👦‍👦 :man woman boy boy:",
+      "snippet": "👨‍👩‍👦‍👦",
+      "keyword": ":man woman boy boy:"
+    },
+    "newSnippet": {
+      "name": "👨‍👩‍👦‍👦 family man woman boy boy ",
+      "snippet": "👨‍👩‍👦‍👦",
+      "keyword": ":family man woman boy boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👩‍👧 :man woman girl:",
+      "snippet": "👨‍👩‍👧",
+      "keyword": ":man woman girl:"
+    },
+    "newSnippet": {
+      "name": "👨‍👩‍👧 family man woman girl ",
+      "snippet": "👨‍👩‍👧",
+      "keyword": ":family man woman girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👩‍👧‍👦 :man woman girl boy:",
+      "snippet": "👨‍👩‍👧‍👦",
+      "keyword": ":man woman girl boy:"
+    },
+    "newSnippet": {
+      "name": "👨‍👩‍👧‍👦 family man woman girl boy ",
+      "snippet": "👨‍👩‍👧‍👦",
+      "keyword": ":family man woman girl boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👨‍👩‍👧‍👧 :man woman girl girl:",
+      "snippet": "👨‍👩‍👧‍👧",
+      "keyword": ":man woman girl girl:"
+    },
+    "newSnippet": {
+      "name": "👨‍👩‍👧‍👧 family man woman girl girl ",
+      "snippet": "👨‍👩‍👧‍👧",
+      "keyword": ":family man woman girl girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💆 :massage:",
+      "snippet": "💆",
+      "keyword": ":massage:"
+    },
+    "newSnippet": {
+      "name": "💆 massage woman massage - spa",
+      "snippet": "💆",
+      "keyword": ":massage woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎖 :medal:",
+      "snippet": "🎖",
+      "keyword": ":medal:"
+    },
+    "newSnippet": {
+      "name": "🎖 medal military ",
+      "snippet": "🎖",
+      "keyword": ":medal military:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚵 :mountain bicyclist:",
+      "snippet": "🚵",
+      "keyword": ":mountain bicyclist:"
+    },
+    "newSnippet": {
+      "name": "🚵 mountain biking man mountain bicyclist ",
+      "snippet": "🚵",
+      "keyword": ":mountain biking man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙅 :no good:",
+      "snippet": "🙅",
+      "keyword": ":no good:"
+    },
+    "newSnippet": {
+      "name": "🙅 no good woman no good ng woman - stop halt",
+      "snippet": "🙅",
+      "keyword": ":no good woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚱 :non potable water:",
+      "snippet": "🚱",
+      "keyword": ":non potable water:"
+    },
+    "newSnippet": {
+      "name": "🚱 non-potable water ",
+      "snippet": "🚱",
+      "keyword": ":non-potable water:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕉 :om symbol:",
+      "snippet": "🕉",
+      "keyword": ":om symbol:"
+    },
+    "newSnippet": {
+      "name": "🕉 om ",
+      "snippet": "🕉",
+      "keyword": ":om:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📖 :open book:",
+      "snippet": "📖",
+      "keyword": ":open book:"
+    },
+    "newSnippet": {
+      "name": "📖 book open book ",
+      "snippet": "📖",
+      "keyword": ":book:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐾 :paw prints:",
+      "snippet": "🐾",
+      "keyword": ":paw prints:"
+    },
+    "newSnippet": {
+      "name": "🐾 feet paw prints ",
+      "snippet": "🐾",
+      "keyword": ":feet:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📝 :pencil:",
+      "snippet": "📝",
+      "keyword": ":pencil:"
+    },
+    "newSnippet": {
+      "name": "📝 memo pencil - document note",
+      "snippet": "📝",
+      "keyword": ":memo:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙍 :person frowning:",
+      "snippet": "🙍",
+      "keyword": ":person frowning:"
+    },
+    "newSnippet": {
+      "name": "🙍 frowning woman person frowning - sad",
+      "snippet": "🙍",
+      "keyword": ":frowning woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛹ :person with ball:",
+      "snippet": "⛹",
+      "keyword": ":person with ball:"
+    },
+    "newSnippet": {
+      "name": "⛹ basketball man ",
+      "snippet": "⛹",
+      "keyword": ":basketball man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👱 :person with blond hair:",
+      "snippet": "👱",
+      "keyword": ":person with blond hair:"
+    },
+    "newSnippet": {
+      "name": "👱 blonde man person with blond hair - boy",
+      "snippet": "👱",
+      "keyword": ":blonde man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙎 :person with pouting face:",
+      "snippet": "🙎",
+      "keyword": ":person with pouting face:"
+    },
+    "newSnippet": {
+      "name": "🙎 pouting woman person with pouting face ",
+      "snippet": "🙎",
+      "keyword": ":pouting woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💩 :poop:",
+      "snippet": "💩",
+      "keyword": ":poop:"
+    },
+    "newSnippet": {
+      "name": "💩 hankey poop shit - crap",
+      "snippet": "💩",
+      "keyword": ":hankey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👊 :punch:",
+      "snippet": "👊",
+      "keyword": ":punch:"
+    },
+    "newSnippet": {
+      "name": "👊 fist oncoming facepunch punch - attack",
+      "snippet": "👊",
+      "keyword": ":fist oncoming:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙋 :raising hand:",
+      "snippet": "🙋",
+      "keyword": ":raising hand:"
+    },
+    "newSnippet": {
+      "name": "🙋 raising hand woman raising hand ",
+      "snippet": "🙋",
+      "keyword": ":raising hand woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚗 :red car:",
+      "snippet": "🚗",
+      "keyword": ":red car:"
+    },
+    "newSnippet": {
+      "name": "🚗 car red car ",
+      "snippet": "🚗",
+      "keyword": ":car:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗞 :rolled up newspaper:",
+      "snippet": "🗞",
+      "keyword": ":rolled up newspaper:"
+    },
+    "newSnippet": {
+      "name": "🗞 newspaper roll - press",
+      "snippet": "🗞",
+      "keyword": ":newspaper roll:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚣 :rowboat:",
+      "snippet": "🚣",
+      "keyword": ":rowboat:"
+    },
+    "newSnippet": {
+      "name": "🚣 rowing man rowboat ",
+      "snippet": "🚣",
+      "keyword": ":rowing man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏃 :runner:",
+      "snippet": "🏃",
+      "keyword": ":runner:"
+    },
+    "newSnippet": {
+      "name": "🏃 running man runner running - exercise workout marathon",
+      "snippet": "🏃",
+      "keyword": ":running man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏃 :running:",
+      "snippet": "🏃",
+      "keyword": ":running:"
+    },
+    "newSnippet": {
+      "name": "🏃 running man runner running - exercise workout marathon",
+      "snippet": "🏃",
+      "keyword": ":running man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛵ :sailboat:",
+      "snippet": "⛵",
+      "keyword": ":sailboat:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😆 :satisfied:",
+      "snippet": "😆",
+      "keyword": ":satisfied:"
+    },
+    "newSnippet": {
+      "name": "😆 laughing satisfied - happy haha",
+      "snippet": "😆",
+      "keyword": ":laughing:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⚖ :scales:",
+      "snippet": "⚖",
+      "keyword": ":scales:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💩 :shit:",
+      "snippet": "💩",
+      "keyword": ":shit:"
+    },
+    "newSnippet": {
+      "name": "💩 hankey poop shit - crap",
+      "snippet": "💩",
+      "keyword": ":hankey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👞 :shoe:",
+      "snippet": "👞",
+      "keyword": ":shoe:"
+    },
+    "newSnippet": {
+      "name": "👞 mans shoe shoe ",
+      "snippet": "👞",
+      "keyword": ":mans shoe:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛍 :shopping bags:",
+      "snippet": "🛍",
+      "keyword": ":shopping bags:"
+    },
+    "newSnippet": {
+      "name": "🛍 shopping - bags",
+      "snippet": "🛍",
+      "keyword": ":shopping:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗓 :spiral calendar pad:",
+      "snippet": "🗓",
+      "keyword": ":spiral calendar pad:"
+    },
+    "newSnippet": {
+      "name": "🗓 spiral calendar ",
+      "snippet": "🗓",
+      "keyword": ":spiral calendar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗒 :spiral note pad:",
+      "snippet": "🗒",
+      "keyword": ":spiral note pad:"
+    },
+    "newSnippet": {
+      "name": "🗒 spiral notepad ",
+      "snippet": "🗒",
+      "keyword": ":spiral notepad:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏄 :surfer:",
+      "snippet": "🏄",
+      "keyword": ":surfer:"
+    },
+    "newSnippet": {
+      "name": "🏄 surfing man surfer ",
+      "snippet": "🏄",
+      "keyword": ":surfing man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☎ :telephone:",
+      "snippet": "☎",
+      "keyword": ":telephone:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤘 :the horns:",
+      "snippet": "🤘",
+      "keyword": ":the horns:"
+    },
+    "newSnippet": {
+      "name": "🤘 metal ",
+      "snippet": "🤘",
+      "keyword": ":metal:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👕 :tshirt:",
+      "snippet": "👕",
+      "keyword": ":tshirt:"
+    },
+    "newSnippet": {
+      "name": "👕 shirt tshirt ",
+      "snippet": "👕",
+      "keyword": ":shirt:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚶 :walking:",
+      "snippet": "🚶",
+      "keyword": ":walking:"
+    },
+    "newSnippet": {
+      "name": "🚶 walking man walking ",
+      "snippet": "🚶",
+      "keyword": ":walking man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏴 :waving black flag:",
+      "snippet": "🏴",
+      "keyword": ":waving black flag:"
+    },
+    "newSnippet": {
+      "name": "🏴 black flag ",
+      "snippet": "🏴",
+      "keyword": ":black flag:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏳 :waving white flag:",
+      "snippet": "🏳",
+      "keyword": ":waving white flag:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌬 :wind blowing face:",
+      "snippet": "🌬",
+      "keyword": ":wind blowing face:"
+    },
+    "newSnippet": {
+      "name": "🌬 wind face ",
+      "snippet": "🌬",
+      "keyword": ":wind face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍❤️‍👩 :woman heart woman:",
+      "snippet": "👩‍❤️‍👩",
+      "keyword": ":woman heart woman:"
+    },
+    "newSnippet": {
+      "name": "👩‍❤️‍👩 couple with heart woman woman ",
+      "snippet": "👩‍❤️‍👩",
+      "keyword": ":couple with heart woman woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍❤️‍💋‍👩 :woman kiss woman:",
+      "snippet": "👩‍❤️‍💋‍👩",
+      "keyword": ":woman kiss woman:"
+    },
+    "newSnippet": {
+      "name": "👩‍❤️‍💋‍👩 couplekiss woman woman ",
+      "snippet": "👩‍❤️‍💋‍👩",
+      "keyword": ":couplekiss woman woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍👩‍👦 :woman woman boy:",
+      "snippet": "👩‍👩‍👦",
+      "keyword": ":woman woman boy:"
+    },
+    "newSnippet": {
+      "name": "👩‍👩‍👦 family woman woman boy ",
+      "snippet": "👩‍👩‍👦",
+      "keyword": ":family woman woman boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍👩‍👦‍👦 :woman woman boy boy:",
+      "snippet": "👩‍👩‍👦‍👦",
+      "keyword": ":woman woman boy boy:"
+    },
+    "newSnippet": {
+      "name": "👩‍👩‍👦‍👦 family woman woman boy boy ",
+      "snippet": "👩‍👩‍👦‍👦",
+      "keyword": ":family woman woman boy boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍👩‍👧 :woman woman girl:",
+      "snippet": "👩‍👩‍👧",
+      "keyword": ":woman woman girl:"
+    },
+    "newSnippet": {
+      "name": "👩‍👩‍👧 family woman woman girl ",
+      "snippet": "👩‍👩‍👧",
+      "keyword": ":family woman woman girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍👩‍👧‍👦 :woman woman girl boy:",
+      "snippet": "👩‍👩‍👧‍👦",
+      "keyword": ":woman woman girl boy:"
+    },
+    "newSnippet": {
+      "name": "👩‍👩‍👧‍👦 family woman woman girl boy ",
+      "snippet": "👩‍👩‍👧‍👦",
+      "keyword": ":family woman woman girl boy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👩‍👩‍👧‍👧 :woman woman girl girl:",
+      "snippet": "👩‍👩‍👧‍👧",
+      "keyword": ":woman woman girl girl:"
+    },
+    "newSnippet": {
+      "name": "👩‍👩‍👧‍👧 family woman woman girl girl ",
+      "snippet": "👩‍👩‍👧‍👧",
+      "keyword": ":family woman woman girl girl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "ℹ :information:",
+      "snippet": "ℹ",
+      "keyword": ":information:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "↔ :arrow left right:",
+      "snippet": "↔",
+      "keyword": ":arrow left right:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "↩ :arrow left hook:",
+      "snippet": "↩",
+      "keyword": ":arrow left hook:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏭ :extra fast forward:",
+      "snippet": "⏭",
+      "keyword": ":extra fast forward:"
+    },
+    "newSnippet": {
+      "name": "⏭ next track button ",
+      "snippet": "⏭",
+      "keyword": ":next track button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏮ :extra rewind:",
+      "snippet": "⏮",
+      "keyword": ":extra rewind:"
+    },
+    "newSnippet": {
+      "name": "⏮ previous track button ",
+      "snippet": "⏮",
+      "keyword": ":previous track button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏯ :play pause:",
+      "snippet": "⏯",
+      "keyword": ":play pause:"
+    },
+    "newSnippet": {
+      "name": "⏯ play or pause button ",
+      "snippet": "⏯",
+      "keyword": ":play or pause button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏰ :alarm: (clock)",
+      "snippet": "⏰",
+      "keyword": ":alarm:"
+    },
+    "newSnippet": {
+      "name": "⏰ alarm clock - morning",
+      "snippet": "⏰",
+      "keyword": ":alarm clock:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏲ :timer: (clock)",
+      "snippet": "⏲",
+      "keyword": ":timer:"
+    },
+    "newSnippet": {
+      "name": "⏲ timer clock ",
+      "snippet": "⏲",
+      "keyword": ":timer clock:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏳ :hourglass sand: (flowing)",
+      "snippet": "⏳",
+      "keyword": ":hourglass sand:"
+    },
+    "newSnippet": {
+      "name": "⏳ hourglass flowing sand - time",
+      "snippet": "⏳",
+      "keyword": ":hourglass flowing sand:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏸ :pause:",
+      "snippet": "⏸",
+      "keyword": ":pause:"
+    },
+    "newSnippet": {
+      "name": "⏸ pause button ",
+      "snippet": "⏸",
+      "keyword": ":pause button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏹ :stop:",
+      "snippet": "⏹",
+      "keyword": ":stop:"
+    },
+    "newSnippet": {
+      "name": "⏹ stop button ",
+      "snippet": "⏹",
+      "keyword": ":stop button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⏺ :record:",
+      "snippet": "⏺",
+      "keyword": ":record:"
+    },
+    "newSnippet": {
+      "name": "⏺ record button ",
+      "snippet": "⏺",
+      "keyword": ":record button:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☃ :snowman2:",
+      "snippet": "☃",
+      "keyword": ":snowman2:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☑ :check: (ballot box)",
+      "snippet": "☑",
+      "keyword": ":check:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☔ :umbrella rain: (drops)",
+      "snippet": "☔",
+      "keyword": ":umbrella rain:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☠ :crossbones: (skull)",
+      "snippet": "☠",
+      "keyword": ":crossbones:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "☹ :wide frown:",
+      "snippet": "☹",
+      "keyword": ":wide frown:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⚒ :hammer pick:",
+      "snippet": "⚒",
+      "keyword": ":hammer pick:"
+    },
+    "newSnippet": {
+      "name": "⚒ hammer and pick ",
+      "snippet": "⚒",
+      "keyword": ":hammer and pick:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⚔ :swords: (crossed)",
+      "snippet": "⚔",
+      "keyword": ":swords:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⚱ :urn: (funeral)",
+      "snippet": "⚱",
+      "keyword": ":urn:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛈ :thunder cloud: (weather)",
+      "snippet": "⛈",
+      "keyword": ":thunder cloud:"
+    },
+    "newSnippet": {
+      "name": "⛈ cloud with lightning and rain ",
+      "snippet": "⛈",
+      "keyword": ":cloud with lightning and rain:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛩ :shinto: (shrine)",
+      "snippet": "⛩",
+      "keyword": ":shinto:"
+    },
+    "newSnippet": {
+      "name": "⛩ shinto shrine ",
+      "snippet": "⛩",
+      "keyword": ":shinto shrine:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "⛱ :umbrella beach: (on ground)",
+      "snippet": "⛱",
+      "keyword": ":umbrella beach:"
+    },
+    "newSnippet": {
+      "name": "⛱ parasol on ground - beach_umbrella",
+      "snippet": "⛱",
+      "keyword": ":parasol on ground:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✅ :checkmark:",
+      "snippet": "✅",
+      "keyword": ":checkmark:"
+    },
+    "newSnippet": {
+      "name": "✅ white check mark ",
+      "snippet": "✅",
+      "keyword": ":white check mark:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✈ :plane: (airplane)",
+      "snippet": "✈",
+      "keyword": ":plane:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✉ :mail:",
+      "snippet": "✉",
+      "keyword": ":mail:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✋ :raised hand: or :hand:",
+      "snippet": "✋",
+      "keyword": ":raised hand:"
+    },
+    "newSnippet": {
+      "name": "✋ hand raised hand - highfive stop",
+      "snippet": "✋",
+      "keyword": ":hand:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✍ :writing: (hand)",
+      "snippet": "✍",
+      "keyword": ":writing:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✒ :nib:",
+      "snippet": "✒",
+      "keyword": ":nib:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✔ :checkmark2:",
+      "snippet": "✔",
+      "keyword": ":checkmark2:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "✖ :multiply sign:",
+      "snippet": "✖",
+      "keyword": ":multiply sign:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "❇ :sparkle2:",
+      "snippet": "❇",
+      "keyword": ":sparkle2:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "❎ :x2:",
+      "snippet": "❎",
+      "keyword": ":x2:"
+    },
+    "newSnippet": {
+      "name": "❎ negative squared cross mark ",
+      "snippet": "❎",
+      "keyword": ":negative squared cross mark:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "❗ :bang:",
+      "snippet": "❗",
+      "keyword": ":bang:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "❣ :heart bang: (exclamation mark)",
+      "snippet": "❣",
+      "keyword": ":heart bang:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "➕ :plus sign:",
+      "snippet": "➕",
+      "keyword": ":plus sign:"
+    },
+    "newSnippet": {
+      "name": "➕ heavy plus sign ",
+      "snippet": "➕",
+      "keyword": ":heavy plus sign:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "➖ :minus sign:",
+      "snippet": "➖",
+      "keyword": ":minus sign:"
+    },
+    "newSnippet": {
+      "name": "➖ heavy minus sign ",
+      "snippet": "➖",
+      "keyword": ":heavy minus sign:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "➗ :division sign:",
+      "snippet": "➗",
+      "keyword": ":division sign:"
+    },
+    "newSnippet": {
+      "name": "➗ heavy division sign ",
+      "snippet": "➗",
+      "keyword": ":heavy division sign:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🃏 :joker:",
+      "snippet": "🃏",
+      "keyword": ":joker:"
+    },
+    "newSnippet": {
+      "name": "🃏 black joker ",
+      "snippet": "🃏",
+      "keyword": ":black joker:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🆗 :ok2:",
+      "snippet": "🆗",
+      "keyword": ":ok2:"
+    },
+    "newSnippet": {
+      "name": "🆗 ok - yes",
+      "snippet": "🆗",
+      "keyword": ":ok:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇨 :flag ac: (ascension island)",
+      "snippet": "🇦🇨",
+      "keyword": ":flag ac:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇩 :flag ad: (andorra)",
+      "snippet": "🇦🇩",
+      "keyword": ":flag ad:"
+    },
+    "newSnippet": {
+      "name": "🇦🇩 andorra ",
+      "snippet": "🇦🇩",
+      "keyword": ":andorra:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇪 :flag ae: (united arab emirates)",
+      "snippet": "🇦🇪",
+      "keyword": ":flag ae:"
+    },
+    "newSnippet": {
+      "name": "🇦🇪 united arab emirates ",
+      "snippet": "🇦🇪",
+      "keyword": ":united arab emirates:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇫 :flag af: (afghanistan)",
+      "snippet": "🇦🇫",
+      "keyword": ":flag af:"
+    },
+    "newSnippet": {
+      "name": "🇦🇫 afghanistan ",
+      "snippet": "🇦🇫",
+      "keyword": ":afghanistan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇬 :flag ag: (antigua and barbuda)",
+      "snippet": "🇦🇬",
+      "keyword": ":flag ag:"
+    },
+    "newSnippet": {
+      "name": "🇦🇬 antigua barbuda ",
+      "snippet": "🇦🇬",
+      "keyword": ":antigua barbuda:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇮 :flag ai: (anguilla)",
+      "snippet": "🇦🇮",
+      "keyword": ":flag ai:"
+    },
+    "newSnippet": {
+      "name": "🇦🇮 anguilla ",
+      "snippet": "🇦🇮",
+      "keyword": ":anguilla:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇱 :flag al: (albania)",
+      "snippet": "🇦🇱",
+      "keyword": ":flag al:"
+    },
+    "newSnippet": {
+      "name": "🇦🇱 albania ",
+      "snippet": "🇦🇱",
+      "keyword": ":albania:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇲 :flag am: (armenia)",
+      "snippet": "🇦🇲",
+      "keyword": ":flag am:"
+    },
+    "newSnippet": {
+      "name": "🇦🇲 armenia ",
+      "snippet": "🇦🇲",
+      "keyword": ":armenia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇴 :flag ao: (angola)",
+      "snippet": "🇦🇴",
+      "keyword": ":flag ao:"
+    },
+    "newSnippet": {
+      "name": "🇦🇴 angola ",
+      "snippet": "🇦🇴",
+      "keyword": ":angola:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇶 :flag aq: (antarctica)",
+      "snippet": "🇦🇶",
+      "keyword": ":flag aq:"
+    },
+    "newSnippet": {
+      "name": "🇦🇶 antarctica ",
+      "snippet": "🇦🇶",
+      "keyword": ":antarctica:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇷 :flag ar: (argentina)",
+      "snippet": "🇦🇷",
+      "keyword": ":flag ar:"
+    },
+    "newSnippet": {
+      "name": "🇦🇷 argentina ",
+      "snippet": "🇦🇷",
+      "keyword": ":argentina:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇸 :flag as: (american samoa)",
+      "snippet": "🇦🇸",
+      "keyword": ":flag as:"
+    },
+    "newSnippet": {
+      "name": "🇦🇸 american samoa ",
+      "snippet": "🇦🇸",
+      "keyword": ":american samoa:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇹 :flag at: (austria)",
+      "snippet": "🇦🇹",
+      "keyword": ":flag at:"
+    },
+    "newSnippet": {
+      "name": "🇦🇹 austria ",
+      "snippet": "🇦🇹",
+      "keyword": ":austria:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇺 :flag au: (australia)",
+      "snippet": "🇦🇺",
+      "keyword": ":flag au:"
+    },
+    "newSnippet": {
+      "name": "🇦🇺 australia ",
+      "snippet": "🇦🇺",
+      "keyword": ":australia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇼 :flag aw: (aruba)",
+      "snippet": "🇦🇼",
+      "keyword": ":flag aw:"
+    },
+    "newSnippet": {
+      "name": "🇦🇼 aruba ",
+      "snippet": "🇦🇼",
+      "keyword": ":aruba:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇽 :flag ax: (aland islands)",
+      "snippet": "🇦🇽",
+      "keyword": ":flag ax:"
+    },
+    "newSnippet": {
+      "name": "🇦🇽 aland islands ",
+      "snippet": "🇦🇽",
+      "keyword": ":aland islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇦🇿 :flag az: (azerbaijan)",
+      "snippet": "🇦🇿",
+      "keyword": ":flag az:"
+    },
+    "newSnippet": {
+      "name": "🇦🇿 azerbaijan ",
+      "snippet": "🇦🇿",
+      "keyword": ":azerbaijan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇦 :flag ba: (bosnia and herzegovina)",
+      "snippet": "🇧🇦",
+      "keyword": ":flag ba:"
+    },
+    "newSnippet": {
+      "name": "🇧🇦 bosnia herzegovina ",
+      "snippet": "🇧🇦",
+      "keyword": ":bosnia herzegovina:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇧 :flag bb: (barbados)",
+      "snippet": "🇧🇧",
+      "keyword": ":flag bb:"
+    },
+    "newSnippet": {
+      "name": "🇧🇧 barbados ",
+      "snippet": "🇧🇧",
+      "keyword": ":barbados:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇩 :flag bd: (bangladesh)",
+      "snippet": "🇧🇩",
+      "keyword": ":flag bd:"
+    },
+    "newSnippet": {
+      "name": "🇧🇩 bangladesh ",
+      "snippet": "🇧🇩",
+      "keyword": ":bangladesh:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇪 :flag be: (belgium)",
+      "snippet": "🇧🇪",
+      "keyword": ":flag be:"
+    },
+    "newSnippet": {
+      "name": "🇧🇪 belgium ",
+      "snippet": "🇧🇪",
+      "keyword": ":belgium:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇫 :flag bf: (burkina faso)",
+      "snippet": "🇧🇫",
+      "keyword": ":flag bf:"
+    },
+    "newSnippet": {
+      "name": "🇧🇫 burkina faso ",
+      "snippet": "🇧🇫",
+      "keyword": ":burkina faso:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇬 :flag bg: (bulgaria)",
+      "snippet": "🇧🇬",
+      "keyword": ":flag bg:"
+    },
+    "newSnippet": {
+      "name": "🇧🇬 bulgaria ",
+      "snippet": "🇧🇬",
+      "keyword": ":bulgaria:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇭 :flag bh: (bahrain)",
+      "snippet": "🇧🇭",
+      "keyword": ":flag bh:"
+    },
+    "newSnippet": {
+      "name": "🇧🇭 bahrain ",
+      "snippet": "🇧🇭",
+      "keyword": ":bahrain:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇮 :flag bi: (burundi)",
+      "snippet": "🇧🇮",
+      "keyword": ":flag bi:"
+    },
+    "newSnippet": {
+      "name": "🇧🇮 burundi ",
+      "snippet": "🇧🇮",
+      "keyword": ":burundi:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇯 :flag bj: (benin)",
+      "snippet": "🇧🇯",
+      "keyword": ":flag bj:"
+    },
+    "newSnippet": {
+      "name": "🇧🇯 benin ",
+      "snippet": "🇧🇯",
+      "keyword": ":benin:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇱 :flag bl: (saint barthelemy)",
+      "snippet": "🇧🇱",
+      "keyword": ":flag bl:"
+    },
+    "newSnippet": {
+      "name": "🇧🇱 st barthelemy ",
+      "snippet": "🇧🇱",
+      "keyword": ":st barthelemy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇲 :flag bm: (bermuda)",
+      "snippet": "🇧🇲",
+      "keyword": ":flag bm:"
+    },
+    "newSnippet": {
+      "name": "🇧🇲 bermuda ",
+      "snippet": "🇧🇲",
+      "keyword": ":bermuda:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇳 :flag bn: (brunei darussalam)",
+      "snippet": "🇧🇳",
+      "keyword": ":flag bn:"
+    },
+    "newSnippet": {
+      "name": "🇧🇳 brunei ",
+      "snippet": "🇧🇳",
+      "keyword": ":brunei:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇴 :flag bo: (bolivia)",
+      "snippet": "🇧🇴",
+      "keyword": ":flag bo:"
+    },
+    "newSnippet": {
+      "name": "🇧🇴 bolivia ",
+      "snippet": "🇧🇴",
+      "keyword": ":bolivia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇶 :flag bq: (bonaire, sint eustatius and saba)",
+      "snippet": "🇧🇶",
+      "keyword": ":flag bq:"
+    },
+    "newSnippet": {
+      "name": "🇧🇶 caribbean netherlands ",
+      "snippet": "🇧🇶",
+      "keyword": ":caribbean netherlands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇷 :flag br: (brazil)",
+      "snippet": "🇧🇷",
+      "keyword": ":flag br:"
+    },
+    "newSnippet": {
+      "name": "🇧🇷 brazil ",
+      "snippet": "🇧🇷",
+      "keyword": ":brazil:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇸 :flag bs: (bahamas)",
+      "snippet": "🇧🇸",
+      "keyword": ":flag bs:"
+    },
+    "newSnippet": {
+      "name": "🇧🇸 bahamas ",
+      "snippet": "🇧🇸",
+      "keyword": ":bahamas:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇹 :flag bt: (bhutan)",
+      "snippet": "🇧🇹",
+      "keyword": ":flag bt:"
+    },
+    "newSnippet": {
+      "name": "🇧🇹 bhutan ",
+      "snippet": "🇧🇹",
+      "keyword": ":bhutan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇻 :flag bv: (bouvet island)",
+      "snippet": "🇧🇻",
+      "keyword": ":flag bv:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇼 :flag bw: (bostwana)",
+      "snippet": "🇧🇼",
+      "keyword": ":flag bw:"
+    },
+    "newSnippet": {
+      "name": "🇧🇼 botswana ",
+      "snippet": "🇧🇼",
+      "keyword": ":botswana:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇾 :flag by: (belarus)",
+      "snippet": "🇧🇾",
+      "keyword": ":flag by:"
+    },
+    "newSnippet": {
+      "name": "🇧🇾 belarus ",
+      "snippet": "🇧🇾",
+      "keyword": ":belarus:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇧🇿 :flag bz: (belize)",
+      "snippet": "🇧🇿",
+      "keyword": ":flag bz:"
+    },
+    "newSnippet": {
+      "name": "🇧🇿 belize ",
+      "snippet": "🇧🇿",
+      "keyword": ":belize:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇦 :flag ca: (canada)",
+      "snippet": "🇨🇦",
+      "keyword": ":flag ca:"
+    },
+    "newSnippet": {
+      "name": "🇨🇦 canada ",
+      "snippet": "🇨🇦",
+      "keyword": ":canada:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇨 :flag cc: (cocos keeling islands)",
+      "snippet": "🇨🇨",
+      "keyword": ":flag cc:"
+    },
+    "newSnippet": {
+      "name": "🇨🇨 cocos islands - keeling",
+      "snippet": "🇨🇨",
+      "keyword": ":cocos islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇩 :flag cd: (congo, democratic republic)",
+      "snippet": "🇨🇩",
+      "keyword": ":flag cd:"
+    },
+    "newSnippet": {
+      "name": "🇨🇩 congo kinshasa ",
+      "snippet": "🇨🇩",
+      "keyword": ":congo kinshasa:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇫 :flag cf: (central african republic)",
+      "snippet": "🇨🇫",
+      "keyword": ":flag cf:"
+    },
+    "newSnippet": {
+      "name": "🇨🇫 central african republic ",
+      "snippet": "🇨🇫",
+      "keyword": ":central african republic:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇬 :flag cg: (congo)",
+      "snippet": "🇨🇬",
+      "keyword": ":flag cg:"
+    },
+    "newSnippet": {
+      "name": "🇨🇬 congo brazzaville ",
+      "snippet": "🇨🇬",
+      "keyword": ":congo brazzaville:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇭 :flag ch: (switzerland)",
+      "snippet": "🇨🇭",
+      "keyword": ":flag ch:"
+    },
+    "newSnippet": {
+      "name": "🇨🇭 switzerland ",
+      "snippet": "🇨🇭",
+      "keyword": ":switzerland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇮 :flag ci: (cote d'ivoire)",
+      "snippet": "🇨🇮",
+      "keyword": ":flag ci:"
+    },
+    "newSnippet": {
+      "name": "🇨🇮 cote divoire - ivory",
+      "snippet": "🇨🇮",
+      "keyword": ":cote divoire:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇰 :flag ck: (cook islands)",
+      "snippet": "🇨🇰",
+      "keyword": ":flag ck:"
+    },
+    "newSnippet": {
+      "name": "🇨🇰 cook islands ",
+      "snippet": "🇨🇰",
+      "keyword": ":cook islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇱 :flag cl: (chile)",
+      "snippet": "🇨🇱",
+      "keyword": ":flag cl:"
+    },
+    "newSnippet": {
+      "name": "🇨🇱 chile ",
+      "snippet": "🇨🇱",
+      "keyword": ":chile:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇲 :flag cm: (cameroon)",
+      "snippet": "🇨🇲",
+      "keyword": ":flag cm:"
+    },
+    "newSnippet": {
+      "name": "🇨🇲 cameroon ",
+      "snippet": "🇨🇲",
+      "keyword": ":cameroon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇳 :flag cn: (china)",
+      "snippet": "🇨🇳",
+      "keyword": ":flag cn:"
+    },
+    "newSnippet": {
+      "name": "🇨🇳 cn - china",
+      "snippet": "🇨🇳",
+      "keyword": ":cn:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇴 :flag co: (columbia)",
+      "snippet": "🇨🇴",
+      "keyword": ":flag co:"
+    },
+    "newSnippet": {
+      "name": "🇨🇴 colombia ",
+      "snippet": "🇨🇴",
+      "keyword": ":colombia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇵 :flag cp: (clipperton island)",
+      "snippet": "🇨🇵",
+      "keyword": ":flag cp:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇷 :flag cr: (costa rica)",
+      "snippet": "🇨🇷",
+      "keyword": ":flag cr:"
+    },
+    "newSnippet": {
+      "name": "🇨🇷 costa rica ",
+      "snippet": "🇨🇷",
+      "keyword": ":costa rica:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇺 :flag cu: (cuba)",
+      "snippet": "🇨🇺",
+      "keyword": ":flag cu:"
+    },
+    "newSnippet": {
+      "name": "🇨🇺 cuba ",
+      "snippet": "🇨🇺",
+      "keyword": ":cuba:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇻 :flag cv: (cabo verde)",
+      "snippet": "🇨🇻",
+      "keyword": ":flag cv:"
+    },
+    "newSnippet": {
+      "name": "🇨🇻 cape verde ",
+      "snippet": "🇨🇻",
+      "keyword": ":cape verde:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇼 :flag cw: (curacao)",
+      "snippet": "🇨🇼",
+      "keyword": ":flag cw:"
+    },
+    "newSnippet": {
+      "name": "🇨🇼 curacao ",
+      "snippet": "🇨🇼",
+      "keyword": ":curacao:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇽 :flag cx: (christmas island)",
+      "snippet": "🇨🇽",
+      "keyword": ":flag cx:"
+    },
+    "newSnippet": {
+      "name": "🇨🇽 christmas island ",
+      "snippet": "🇨🇽",
+      "keyword": ":christmas island:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇾 :flag cy: (cyprus)",
+      "snippet": "🇨🇾",
+      "keyword": ":flag cy:"
+    },
+    "newSnippet": {
+      "name": "🇨🇾 cyprus ",
+      "snippet": "🇨🇾",
+      "keyword": ":cyprus:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇨🇿 :flag cz: (czech republic)",
+      "snippet": "🇨🇿",
+      "keyword": ":flag cz:"
+    },
+    "newSnippet": {
+      "name": "🇨🇿 czech republic ",
+      "snippet": "🇨🇿",
+      "keyword": ":czech republic:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇪 :flag de: (germany)",
+      "snippet": "🇩🇪",
+      "keyword": ":flag de:"
+    },
+    "newSnippet": {
+      "name": "🇩🇪 de - flag germany",
+      "snippet": "🇩🇪",
+      "keyword": ":de:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇬 :flag dg: (british indian ocean territory)",
+      "snippet": "🇩🇬",
+      "keyword": ":flag dg:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇯 :flag dj: (djibouti)",
+      "snippet": "🇩🇯",
+      "keyword": ":flag dj:"
+    },
+    "newSnippet": {
+      "name": "🇩🇯 djibouti ",
+      "snippet": "🇩🇯",
+      "keyword": ":djibouti:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇰 :flag dk: (denmark)",
+      "snippet": "🇩🇰",
+      "keyword": ":flag dk:"
+    },
+    "newSnippet": {
+      "name": "🇩🇰 denmark ",
+      "snippet": "🇩🇰",
+      "keyword": ":denmark:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇲 :flag dm: (dominica)",
+      "snippet": "🇩🇲",
+      "keyword": ":flag dm:"
+    },
+    "newSnippet": {
+      "name": "🇩🇲 dominica ",
+      "snippet": "🇩🇲",
+      "keyword": ":dominica:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇴 :flag do: (dominican republic)",
+      "snippet": "🇩🇴",
+      "keyword": ":flag do:"
+    },
+    "newSnippet": {
+      "name": "🇩🇴 dominican republic ",
+      "snippet": "🇩🇴",
+      "keyword": ":dominican republic:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇩🇿 :flag dz: (algeria)",
+      "snippet": "🇩🇿",
+      "keyword": ":flag dz:"
+    },
+    "newSnippet": {
+      "name": "🇩🇿 algeria ",
+      "snippet": "🇩🇿",
+      "keyword": ":algeria:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇦 :flag ea: (spain)",
+      "snippet": "🇪🇦",
+      "keyword": ":flag ea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇨 :flag ec: (ecuador)",
+      "snippet": "🇪🇨",
+      "keyword": ":flag ec:"
+    },
+    "newSnippet": {
+      "name": "🇪🇨 ecuador ",
+      "snippet": "🇪🇨",
+      "keyword": ":ecuador:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇪 :flag ee: (estonia)",
+      "snippet": "🇪🇪",
+      "keyword": ":flag ee:"
+    },
+    "newSnippet": {
+      "name": "🇪🇪 estonia ",
+      "snippet": "🇪🇪",
+      "keyword": ":estonia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇬 :flag eg: (egypt)",
+      "snippet": "🇪🇬",
+      "keyword": ":flag eg:"
+    },
+    "newSnippet": {
+      "name": "🇪🇬 egypt ",
+      "snippet": "🇪🇬",
+      "keyword": ":egypt:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇭 :flag eh: (western sahara)",
+      "snippet": "🇪🇭",
+      "keyword": ":flag eh:"
+    },
+    "newSnippet": {
+      "name": "🇪🇭 western sahara ",
+      "snippet": "🇪🇭",
+      "keyword": ":western sahara:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇷 :flag er: (eritrea)",
+      "snippet": "🇪🇷",
+      "keyword": ":flag er:"
+    },
+    "newSnippet": {
+      "name": "🇪🇷 eritrea ",
+      "snippet": "🇪🇷",
+      "keyword": ":eritrea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇸 :flag es: (spain)",
+      "snippet": "🇪🇸",
+      "keyword": ":flag es:"
+    },
+    "newSnippet": {
+      "name": "🇪🇸 es - spain",
+      "snippet": "🇪🇸",
+      "keyword": ":es:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇹 :flag et: (ethiopia)",
+      "snippet": "🇪🇹",
+      "keyword": ":flag et:"
+    },
+    "newSnippet": {
+      "name": "🇪🇹 ethiopia ",
+      "snippet": "🇪🇹",
+      "keyword": ":ethiopia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇪🇺 :flag eu: (europe)",
+      "snippet": "🇪🇺",
+      "keyword": ":flag eu:"
+    },
+    "newSnippet": {
+      "name": "🇪🇺 eu european union ",
+      "snippet": "🇪🇺",
+      "keyword": ":eu:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇮 :flag fi: (finland)",
+      "snippet": "🇫🇮",
+      "keyword": ":flag fi:"
+    },
+    "newSnippet": {
+      "name": "🇫🇮 finland ",
+      "snippet": "🇫🇮",
+      "keyword": ":finland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇯 :flag fj: (fiji)",
+      "snippet": "🇫🇯",
+      "keyword": ":flag fj:"
+    },
+    "newSnippet": {
+      "name": "🇫🇯 fiji ",
+      "snippet": "🇫🇯",
+      "keyword": ":fiji:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇰 :flag fk: (falkland islands malvinas)",
+      "snippet": "🇫🇰",
+      "keyword": ":flag fk:"
+    },
+    "newSnippet": {
+      "name": "🇫🇰 falkland islands ",
+      "snippet": "🇫🇰",
+      "keyword": ":falkland islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇲 :flag fm: (micronesia, federated states)",
+      "snippet": "🇫🇲",
+      "keyword": ":flag fm:"
+    },
+    "newSnippet": {
+      "name": "🇫🇲 micronesia ",
+      "snippet": "🇫🇲",
+      "keyword": ":micronesia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇴 :flag fo: (faroe islands)",
+      "snippet": "🇫🇴",
+      "keyword": ":flag fo:"
+    },
+    "newSnippet": {
+      "name": "🇫🇴 faroe islands ",
+      "snippet": "🇫🇴",
+      "keyword": ":faroe islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇫🇷 :flag fr: (france)",
+      "snippet": "🇫🇷",
+      "keyword": ":flag fr:"
+    },
+    "newSnippet": {
+      "name": "🇫🇷 fr - france french",
+      "snippet": "🇫🇷",
+      "keyword": ":fr:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇦 :flag ga: (gabon)",
+      "snippet": "🇬🇦",
+      "keyword": ":flag ga:"
+    },
+    "newSnippet": {
+      "name": "🇬🇦 gabon ",
+      "snippet": "🇬🇦",
+      "keyword": ":gabon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇧 :flag gb: (great britain)",
+      "snippet": "🇬🇧",
+      "keyword": ":flag gb:"
+    },
+    "newSnippet": {
+      "name": "🇬🇧 gb uk - flag british",
+      "snippet": "🇬🇧",
+      "keyword": ":gb:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇧 :flag uk: (united kingdom)",
+      "snippet": "🇬🇧",
+      "keyword": ":flag uk:"
+    },
+    "newSnippet": {
+      "name": "🇬🇧 gb uk - flag british",
+      "snippet": "🇬🇧",
+      "keyword": ":gb:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇩 :flag gd: (grenada)",
+      "snippet": "🇬🇩",
+      "keyword": ":flag gd:"
+    },
+    "newSnippet": {
+      "name": "🇬🇩 grenada ",
+      "snippet": "🇬🇩",
+      "keyword": ":grenada:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇪 :flag ge: (georgia)",
+      "snippet": "🇬🇪",
+      "keyword": ":flag ge:"
+    },
+    "newSnippet": {
+      "name": "🇬🇪 georgia ",
+      "snippet": "🇬🇪",
+      "keyword": ":georgia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇫 :flag gf: (french guiana)",
+      "snippet": "🇬🇫",
+      "keyword": ":flag gf:"
+    },
+    "newSnippet": {
+      "name": "🇬🇫 french guiana ",
+      "snippet": "🇬🇫",
+      "keyword": ":french guiana:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇬 :flag gg: (guernsey)",
+      "snippet": "🇬🇬",
+      "keyword": ":flag gg:"
+    },
+    "newSnippet": {
+      "name": "🇬🇬 guernsey ",
+      "snippet": "🇬🇬",
+      "keyword": ":guernsey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇭 :flag gh: (ghana)",
+      "snippet": "🇬🇭",
+      "keyword": ":flag gh:"
+    },
+    "newSnippet": {
+      "name": "🇬🇭 ghana ",
+      "snippet": "🇬🇭",
+      "keyword": ":ghana:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇮 :flag gi: (gibraltar)",
+      "snippet": "🇬🇮",
+      "keyword": ":flag gi:"
+    },
+    "newSnippet": {
+      "name": "🇬🇮 gibraltar ",
+      "snippet": "🇬🇮",
+      "keyword": ":gibraltar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇱 :flag gl: (greenland)",
+      "snippet": "🇬🇱",
+      "keyword": ":flag gl:"
+    },
+    "newSnippet": {
+      "name": "🇬🇱 greenland ",
+      "snippet": "🇬🇱",
+      "keyword": ":greenland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇲 :flag gm: (gambia)",
+      "snippet": "🇬🇲",
+      "keyword": ":flag gm:"
+    },
+    "newSnippet": {
+      "name": "🇬🇲 gambia ",
+      "snippet": "🇬🇲",
+      "keyword": ":gambia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇳 :flag gn: (guinea)",
+      "snippet": "🇬🇳",
+      "keyword": ":flag gn:"
+    },
+    "newSnippet": {
+      "name": "🇬🇳 guinea ",
+      "snippet": "🇬🇳",
+      "keyword": ":guinea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇵 :flag gp: (guadeloupe)",
+      "snippet": "🇬🇵",
+      "keyword": ":flag gp:"
+    },
+    "newSnippet": {
+      "name": "🇬🇵 guadeloupe ",
+      "snippet": "🇬🇵",
+      "keyword": ":guadeloupe:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇶 :flag gq: (equatorial guinea)",
+      "snippet": "🇬🇶",
+      "keyword": ":flag gq:"
+    },
+    "newSnippet": {
+      "name": "🇬🇶 equatorial guinea ",
+      "snippet": "🇬🇶",
+      "keyword": ":equatorial guinea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇷 :flag gr: (greece)",
+      "snippet": "🇬🇷",
+      "keyword": ":flag gr:"
+    },
+    "newSnippet": {
+      "name": "🇬🇷 greece ",
+      "snippet": "🇬🇷",
+      "keyword": ":greece:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇸 :flag gs: (south georgia, south sandwich islands)",
+      "snippet": "🇬🇸",
+      "keyword": ":flag gs:"
+    },
+    "newSnippet": {
+      "name": "🇬🇸 south georgia south sandwich islands ",
+      "snippet": "🇬🇸",
+      "keyword": ":south georgia south sandwich islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇹 :flag gt: (guatemala)",
+      "snippet": "🇬🇹",
+      "keyword": ":flag gt:"
+    },
+    "newSnippet": {
+      "name": "🇬🇹 guatemala ",
+      "snippet": "🇬🇹",
+      "keyword": ":guatemala:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇺 :flag gu: (guam)",
+      "snippet": "🇬🇺",
+      "keyword": ":flag gu:"
+    },
+    "newSnippet": {
+      "name": "🇬🇺 guam ",
+      "snippet": "🇬🇺",
+      "keyword": ":guam:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇼 :flag gw: (guinea bissau)",
+      "snippet": "🇬🇼",
+      "keyword": ":flag gw:"
+    },
+    "newSnippet": {
+      "name": "🇬🇼 guinea bissau ",
+      "snippet": "🇬🇼",
+      "keyword": ":guinea bissau:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇬🇾 :flag gy: (guyana)",
+      "snippet": "🇬🇾",
+      "keyword": ":flag gy:"
+    },
+    "newSnippet": {
+      "name": "🇬🇾 guyana ",
+      "snippet": "🇬🇾",
+      "keyword": ":guyana:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇰 :flag hk: (hong kong)",
+      "snippet": "🇭🇰",
+      "keyword": ":flag hk:"
+    },
+    "newSnippet": {
+      "name": "🇭🇰 hong kong ",
+      "snippet": "🇭🇰",
+      "keyword": ":hong kong:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇲 :flag hm: (heard island and mcdonald island)",
+      "snippet": "🇭🇲",
+      "keyword": ":flag hm:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇳 :flag hn: (honduras)",
+      "snippet": "🇭🇳",
+      "keyword": ":flag hn:"
+    },
+    "newSnippet": {
+      "name": "🇭🇳 honduras ",
+      "snippet": "🇭🇳",
+      "keyword": ":honduras:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇷 :flag hr: (croatia)",
+      "snippet": "🇭🇷",
+      "keyword": ":flag hr:"
+    },
+    "newSnippet": {
+      "name": "🇭🇷 croatia ",
+      "snippet": "🇭🇷",
+      "keyword": ":croatia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇹 :flag ht: (haiti)",
+      "snippet": "🇭🇹",
+      "keyword": ":flag ht:"
+    },
+    "newSnippet": {
+      "name": "🇭🇹 haiti ",
+      "snippet": "🇭🇹",
+      "keyword": ":haiti:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇭🇺 :flag hu: (hungary)",
+      "snippet": "🇭🇺",
+      "keyword": ":flag hu:"
+    },
+    "newSnippet": {
+      "name": "🇭🇺 hungary ",
+      "snippet": "🇭🇺",
+      "keyword": ":hungary:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇨 :flag ic: (canary islands)",
+      "snippet": "🇮🇨",
+      "keyword": ":flag ic:"
+    },
+    "newSnippet": {
+      "name": "🇮🇨 canary islands ",
+      "snippet": "🇮🇨",
+      "keyword": ":canary islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇩 :flag id: (indonesia)",
+      "snippet": "🇮🇩",
+      "keyword": ":flag id:"
+    },
+    "newSnippet": {
+      "name": "🇮🇩 indonesia ",
+      "snippet": "🇮🇩",
+      "keyword": ":indonesia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇪 :flag ie: (ireland)",
+      "snippet": "🇮🇪",
+      "keyword": ":flag ie:"
+    },
+    "newSnippet": {
+      "name": "🇮🇪 ireland ",
+      "snippet": "🇮🇪",
+      "keyword": ":ireland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇱 :flag il: (israel)",
+      "snippet": "🇮🇱",
+      "keyword": ":flag il:"
+    },
+    "newSnippet": {
+      "name": "🇮🇱 israel ",
+      "snippet": "🇮🇱",
+      "keyword": ":israel:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇲 :flag im: (isle of man)",
+      "snippet": "🇮🇲",
+      "keyword": ":flag im:"
+    },
+    "newSnippet": {
+      "name": "🇮🇲 isle of man ",
+      "snippet": "🇮🇲",
+      "keyword": ":isle of man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇳 :flag in: (india)",
+      "snippet": "🇮🇳",
+      "keyword": ":flag in:"
+    },
+    "newSnippet": {
+      "name": "🇮🇳 india ",
+      "snippet": "🇮🇳",
+      "keyword": ":india:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇴 :flag io: (british indian ocean territory)",
+      "snippet": "🇮🇴",
+      "keyword": ":flag io:"
+    },
+    "newSnippet": {
+      "name": "🇮🇴 british indian ocean territory ",
+      "snippet": "🇮🇴",
+      "keyword": ":british indian ocean territory:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇶 :flag iq: (iraq)",
+      "snippet": "🇮🇶",
+      "keyword": ":flag iq:"
+    },
+    "newSnippet": {
+      "name": "🇮🇶 iraq ",
+      "snippet": "🇮🇶",
+      "keyword": ":iraq:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇷 :flag ir: (iran)",
+      "snippet": "🇮🇷",
+      "keyword": ":flag ir:"
+    },
+    "newSnippet": {
+      "name": "🇮🇷 iran ",
+      "snippet": "🇮🇷",
+      "keyword": ":iran:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇸 :flag is: (iceland)",
+      "snippet": "🇮🇸",
+      "keyword": ":flag is:"
+    },
+    "newSnippet": {
+      "name": "🇮🇸 iceland ",
+      "snippet": "🇮🇸",
+      "keyword": ":iceland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇮🇹 :flag it: (italy)",
+      "snippet": "🇮🇹",
+      "keyword": ":flag it:"
+    },
+    "newSnippet": {
+      "name": "🇮🇹 it - italy",
+      "snippet": "🇮🇹",
+      "keyword": ":it:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇯🇪 :flag je: (jersey)",
+      "snippet": "🇯🇪",
+      "keyword": ":flag je:"
+    },
+    "newSnippet": {
+      "name": "🇯🇪 jersey ",
+      "snippet": "🇯🇪",
+      "keyword": ":jersey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇯🇲 :flag jm: (jamaica)",
+      "snippet": "🇯🇲",
+      "keyword": ":flag jm:"
+    },
+    "newSnippet": {
+      "name": "🇯🇲 jamaica ",
+      "snippet": "🇯🇲",
+      "keyword": ":jamaica:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇯🇴 :flag jo: (jordan)",
+      "snippet": "🇯🇴",
+      "keyword": ":flag jo:"
+    },
+    "newSnippet": {
+      "name": "🇯🇴 jordan ",
+      "snippet": "🇯🇴",
+      "keyword": ":jordan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇯🇵 :flag jp: (japan)",
+      "snippet": "🇯🇵",
+      "keyword": ":flag jp:"
+    },
+    "newSnippet": {
+      "name": "🇯🇵 jp - japan",
+      "snippet": "🇯🇵",
+      "keyword": ":jp:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇪 :flag ke: (kenya)",
+      "snippet": "🇰🇪",
+      "keyword": ":flag ke:"
+    },
+    "newSnippet": {
+      "name": "🇰🇪 kenya ",
+      "snippet": "🇰🇪",
+      "keyword": ":kenya:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇬 :flag kg: (kyrgyzstan)",
+      "snippet": "🇰🇬",
+      "keyword": ":flag kg:"
+    },
+    "newSnippet": {
+      "name": "🇰🇬 kyrgyzstan ",
+      "snippet": "🇰🇬",
+      "keyword": ":kyrgyzstan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇭 :flag kh: (cambodia)",
+      "snippet": "🇰🇭",
+      "keyword": ":flag kh:"
+    },
+    "newSnippet": {
+      "name": "🇰🇭 cambodia ",
+      "snippet": "🇰🇭",
+      "keyword": ":cambodia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇮 :flag ki: (kiribati)",
+      "snippet": "🇰🇮",
+      "keyword": ":flag ki:"
+    },
+    "newSnippet": {
+      "name": "🇰🇮 kiribati ",
+      "snippet": "🇰🇮",
+      "keyword": ":kiribati:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇲 :flag km: (comoros)",
+      "snippet": "🇰🇲",
+      "keyword": ":flag km:"
+    },
+    "newSnippet": {
+      "name": "🇰🇲 comoros ",
+      "snippet": "🇰🇲",
+      "keyword": ":comoros:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇳 :flag kn: (saint kitts and nevis)",
+      "snippet": "🇰🇳",
+      "keyword": ":flag kn:"
+    },
+    "newSnippet": {
+      "name": "🇰🇳 st kitts nevis ",
+      "snippet": "🇰🇳",
+      "keyword": ":st kitts nevis:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇵 :flag kp: (north korea)",
+      "snippet": "🇰🇵",
+      "keyword": ":flag kp:"
+    },
+    "newSnippet": {
+      "name": "🇰🇵 north korea ",
+      "snippet": "🇰🇵",
+      "keyword": ":north korea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇷 :flag kr: (south korea)",
+      "snippet": "🇰🇷",
+      "keyword": ":flag kr:"
+    },
+    "newSnippet": {
+      "name": "🇰🇷 kr - korea",
+      "snippet": "🇰🇷",
+      "keyword": ":kr:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇼 :flag kw: (kuwait)",
+      "snippet": "🇰🇼",
+      "keyword": ":flag kw:"
+    },
+    "newSnippet": {
+      "name": "🇰🇼 kuwait ",
+      "snippet": "🇰🇼",
+      "keyword": ":kuwait:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇾 :flag ky: (cayman islands)",
+      "snippet": "🇰🇾",
+      "keyword": ":flag ky:"
+    },
+    "newSnippet": {
+      "name": "🇰🇾 cayman islands ",
+      "snippet": "🇰🇾",
+      "keyword": ":cayman islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇰🇿 :flag kz: (kazakhstan)",
+      "snippet": "🇰🇿",
+      "keyword": ":flag kz:"
+    },
+    "newSnippet": {
+      "name": "🇰🇿 kazakhstan ",
+      "snippet": "🇰🇿",
+      "keyword": ":kazakhstan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇦 :flag la: (laos)",
+      "snippet": "🇱🇦",
+      "keyword": ":flag la:"
+    },
+    "newSnippet": {
+      "name": "🇱🇦 laos ",
+      "snippet": "🇱🇦",
+      "keyword": ":laos:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇧 :flag lb: (lebanon)",
+      "snippet": "🇱🇧",
+      "keyword": ":flag lb:"
+    },
+    "newSnippet": {
+      "name": "🇱🇧 lebanon ",
+      "snippet": "🇱🇧",
+      "keyword": ":lebanon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇨 :flag lc: (saint lucia)",
+      "snippet": "🇱🇨",
+      "keyword": ":flag lc:"
+    },
+    "newSnippet": {
+      "name": "🇱🇨 st lucia ",
+      "snippet": "🇱🇨",
+      "keyword": ":st lucia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇮 :flag li: (liechtenstein)",
+      "snippet": "🇱🇮",
+      "keyword": ":flag li:"
+    },
+    "newSnippet": {
+      "name": "🇱🇮 liechtenstein ",
+      "snippet": "🇱🇮",
+      "keyword": ":liechtenstein:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇰 :flag lk: (sri lanka)",
+      "snippet": "🇱🇰",
+      "keyword": ":flag lk:"
+    },
+    "newSnippet": {
+      "name": "🇱🇰 sri lanka ",
+      "snippet": "🇱🇰",
+      "keyword": ":sri lanka:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇷 :flag lr: (liberia)",
+      "snippet": "🇱🇷",
+      "keyword": ":flag lr:"
+    },
+    "newSnippet": {
+      "name": "🇱🇷 liberia ",
+      "snippet": "🇱🇷",
+      "keyword": ":liberia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇸 :flag ls: (lesotho)",
+      "snippet": "🇱🇸",
+      "keyword": ":flag ls:"
+    },
+    "newSnippet": {
+      "name": "🇱🇸 lesotho ",
+      "snippet": "🇱🇸",
+      "keyword": ":lesotho:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇹 :flag lt: (lithuania)",
+      "snippet": "🇱🇹",
+      "keyword": ":flag lt:"
+    },
+    "newSnippet": {
+      "name": "🇱🇹 lithuania ",
+      "snippet": "🇱🇹",
+      "keyword": ":lithuania:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇺 :flag lu: (luxembourg)",
+      "snippet": "🇱🇺",
+      "keyword": ":flag lu:"
+    },
+    "newSnippet": {
+      "name": "🇱🇺 luxembourg ",
+      "snippet": "🇱🇺",
+      "keyword": ":luxembourg:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇻 :flag lv: (latvia)",
+      "snippet": "🇱🇻",
+      "keyword": ":flag lv:"
+    },
+    "newSnippet": {
+      "name": "🇱🇻 latvia ",
+      "snippet": "🇱🇻",
+      "keyword": ":latvia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇱🇾 :flag ly: (libya)",
+      "snippet": "🇱🇾",
+      "keyword": ":flag ly:"
+    },
+    "newSnippet": {
+      "name": "🇱🇾 libya ",
+      "snippet": "🇱🇾",
+      "keyword": ":libya:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇦 :flag ma: (morocco)",
+      "snippet": "🇲🇦",
+      "keyword": ":flag ma:"
+    },
+    "newSnippet": {
+      "name": "🇲🇦 morocco ",
+      "snippet": "🇲🇦",
+      "keyword": ":morocco:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇨 :flag mc: (monaco)",
+      "snippet": "🇲🇨",
+      "keyword": ":flag mc:"
+    },
+    "newSnippet": {
+      "name": "🇲🇨 monaco ",
+      "snippet": "🇲🇨",
+      "keyword": ":monaco:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇩 :flag md: (moldova)",
+      "snippet": "🇲🇩",
+      "keyword": ":flag md:"
+    },
+    "newSnippet": {
+      "name": "🇲🇩 moldova ",
+      "snippet": "🇲🇩",
+      "keyword": ":moldova:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇪 :flag me: (montenegro)",
+      "snippet": "🇲🇪",
+      "keyword": ":flag me:"
+    },
+    "newSnippet": {
+      "name": "🇲🇪 montenegro ",
+      "snippet": "🇲🇪",
+      "keyword": ":montenegro:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇫 :flag mf: (saint martin)",
+      "snippet": "🇲🇫",
+      "keyword": ":flag mf:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇬 :flag mg: (madagascar)",
+      "snippet": "🇲🇬",
+      "keyword": ":flag mg:"
+    },
+    "newSnippet": {
+      "name": "🇲🇬 madagascar ",
+      "snippet": "🇲🇬",
+      "keyword": ":madagascar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇭 :flag mh: (mashall islands)",
+      "snippet": "🇲🇭",
+      "keyword": ":flag mh:"
+    },
+    "newSnippet": {
+      "name": "🇲🇭 marshall islands ",
+      "snippet": "🇲🇭",
+      "keyword": ":marshall islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇰 :flag mk: (macedonia)",
+      "snippet": "🇲🇰",
+      "keyword": ":flag mk:"
+    },
+    "newSnippet": {
+      "name": "🇲🇰 macedonia ",
+      "snippet": "🇲🇰",
+      "keyword": ":macedonia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇱 :flag ml: (mali)",
+      "snippet": "🇲🇱",
+      "keyword": ":flag ml:"
+    },
+    "newSnippet": {
+      "name": "🇲🇱 mali ",
+      "snippet": "🇲🇱",
+      "keyword": ":mali:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇲 :flag mm: (myanmar)",
+      "snippet": "🇲🇲",
+      "keyword": ":flag mm:"
+    },
+    "newSnippet": {
+      "name": "🇲🇲 myanmar - burma",
+      "snippet": "🇲🇲",
+      "keyword": ":myanmar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇳 :flag mn: (mongolia)",
+      "snippet": "🇲🇳",
+      "keyword": ":flag mn:"
+    },
+    "newSnippet": {
+      "name": "🇲🇳 mongolia ",
+      "snippet": "🇲🇳",
+      "keyword": ":mongolia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇴 :flag mo: (macao)",
+      "snippet": "🇲🇴",
+      "keyword": ":flag mo:"
+    },
+    "newSnippet": {
+      "name": "🇲🇴 macau ",
+      "snippet": "🇲🇴",
+      "keyword": ":macau:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇵 :flag mp: (northern mariana islands)",
+      "snippet": "🇲🇵",
+      "keyword": ":flag mp:"
+    },
+    "newSnippet": {
+      "name": "🇲🇵 northern mariana islands ",
+      "snippet": "🇲🇵",
+      "keyword": ":northern mariana islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇶 :flag mq: (martinique)",
+      "snippet": "🇲🇶",
+      "keyword": ":flag mq:"
+    },
+    "newSnippet": {
+      "name": "🇲🇶 martinique ",
+      "snippet": "🇲🇶",
+      "keyword": ":martinique:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇷 :flag mr: (mauritania)",
+      "snippet": "🇲🇷",
+      "keyword": ":flag mr:"
+    },
+    "newSnippet": {
+      "name": "🇲🇷 mauritania ",
+      "snippet": "🇲🇷",
+      "keyword": ":mauritania:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇸 :flag ms: (montserrat)",
+      "snippet": "🇲🇸",
+      "keyword": ":flag ms:"
+    },
+    "newSnippet": {
+      "name": "🇲🇸 montserrat ",
+      "snippet": "🇲🇸",
+      "keyword": ":montserrat:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇹 :flag mt: (malta)",
+      "snippet": "🇲🇹",
+      "keyword": ":flag mt:"
+    },
+    "newSnippet": {
+      "name": "🇲🇹 malta ",
+      "snippet": "🇲🇹",
+      "keyword": ":malta:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇺 :flag mu: (mauritius)",
+      "snippet": "🇲🇺",
+      "keyword": ":flag mu:"
+    },
+    "newSnippet": {
+      "name": "🇲🇺 mauritius ",
+      "snippet": "🇲🇺",
+      "keyword": ":mauritius:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇻 :flag mv: (maldives)",
+      "snippet": "🇲🇻",
+      "keyword": ":flag mv:"
+    },
+    "newSnippet": {
+      "name": "🇲🇻 maldives ",
+      "snippet": "🇲🇻",
+      "keyword": ":maldives:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇼 :flag mw: (malawi)",
+      "snippet": "🇲🇼",
+      "keyword": ":flag mw:"
+    },
+    "newSnippet": {
+      "name": "🇲🇼 malawi ",
+      "snippet": "🇲🇼",
+      "keyword": ":malawi:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇽 :flag mx: (mexico)",
+      "snippet": "🇲🇽",
+      "keyword": ":flag mx:"
+    },
+    "newSnippet": {
+      "name": "🇲🇽 mexico ",
+      "snippet": "🇲🇽",
+      "keyword": ":mexico:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇾 :flag my: (malaysia)",
+      "snippet": "🇲🇾",
+      "keyword": ":flag my:"
+    },
+    "newSnippet": {
+      "name": "🇲🇾 malaysia ",
+      "snippet": "🇲🇾",
+      "keyword": ":malaysia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇲🇿 :flag mz: (mozambique)",
+      "snippet": "🇲🇿",
+      "keyword": ":flag mz:"
+    },
+    "newSnippet": {
+      "name": "🇲🇿 mozambique ",
+      "snippet": "🇲🇿",
+      "keyword": ":mozambique:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇦 :flag na: (namibia)",
+      "snippet": "🇳🇦",
+      "keyword": ":flag na:"
+    },
+    "newSnippet": {
+      "name": "🇳🇦 namibia ",
+      "snippet": "🇳🇦",
+      "keyword": ":namibia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇨 :flag nc: (new caledonia)",
+      "snippet": "🇳🇨",
+      "keyword": ":flag nc:"
+    },
+    "newSnippet": {
+      "name": "🇳🇨 new caledonia ",
+      "snippet": "🇳🇨",
+      "keyword": ":new caledonia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇪 :flag ne: (niger)",
+      "snippet": "🇳🇪",
+      "keyword": ":flag ne:"
+    },
+    "newSnippet": {
+      "name": "🇳🇪 niger ",
+      "snippet": "🇳🇪",
+      "keyword": ":niger:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇫 :flag nf: (norfolk island)",
+      "snippet": "🇳🇫",
+      "keyword": ":flag nf:"
+    },
+    "newSnippet": {
+      "name": "🇳🇫 norfolk island ",
+      "snippet": "🇳🇫",
+      "keyword": ":norfolk island:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇬 :flag ng: (nigeria)",
+      "snippet": "🇳🇬",
+      "keyword": ":flag ng:"
+    },
+    "newSnippet": {
+      "name": "🇳🇬 nigeria ",
+      "snippet": "🇳🇬",
+      "keyword": ":nigeria:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇮 :flag ni: (nicaragua)",
+      "snippet": "🇳🇮",
+      "keyword": ":flag ni:"
+    },
+    "newSnippet": {
+      "name": "🇳🇮 nicaragua ",
+      "snippet": "🇳🇮",
+      "keyword": ":nicaragua:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇱 :flag nl: (netherlands)",
+      "snippet": "🇳🇱",
+      "keyword": ":flag nl:"
+    },
+    "newSnippet": {
+      "name": "🇳🇱 netherlands ",
+      "snippet": "🇳🇱",
+      "keyword": ":netherlands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇴 :flag no: (norway)",
+      "snippet": "🇳🇴",
+      "keyword": ":flag no:"
+    },
+    "newSnippet": {
+      "name": "🇳🇴 norway ",
+      "snippet": "🇳🇴",
+      "keyword": ":norway:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇵 :flag np: (nepal)",
+      "snippet": "🇳🇵",
+      "keyword": ":flag np:"
+    },
+    "newSnippet": {
+      "name": "🇳🇵 nepal ",
+      "snippet": "🇳🇵",
+      "keyword": ":nepal:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇷 :flag nr: (nauru)",
+      "snippet": "🇳🇷",
+      "keyword": ":flag nr:"
+    },
+    "newSnippet": {
+      "name": "🇳🇷 nauru ",
+      "snippet": "🇳🇷",
+      "keyword": ":nauru:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇺 :flag nu: (niue)",
+      "snippet": "🇳🇺",
+      "keyword": ":flag nu:"
+    },
+    "newSnippet": {
+      "name": "🇳🇺 niue ",
+      "snippet": "🇳🇺",
+      "keyword": ":niue:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇳🇿 :flag nz: (new zealand)",
+      "snippet": "🇳🇿",
+      "keyword": ":flag nz:"
+    },
+    "newSnippet": {
+      "name": "🇳🇿 new zealand ",
+      "snippet": "🇳🇿",
+      "keyword": ":new zealand:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇴🇲 :flag om: (oman)",
+      "snippet": "🇴🇲",
+      "keyword": ":flag om:"
+    },
+    "newSnippet": {
+      "name": "🇴🇲 oman ",
+      "snippet": "🇴🇲",
+      "keyword": ":oman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇦 :flag pa: (panama)",
+      "snippet": "🇵🇦",
+      "keyword": ":flag pa:"
+    },
+    "newSnippet": {
+      "name": "🇵🇦 panama ",
+      "snippet": "🇵🇦",
+      "keyword": ":panama:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇪 :flag pe: (peru)",
+      "snippet": "🇵🇪",
+      "keyword": ":flag pe:"
+    },
+    "newSnippet": {
+      "name": "🇵🇪 peru ",
+      "snippet": "🇵🇪",
+      "keyword": ":peru:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇫 :flag pf: (french polynesia)",
+      "snippet": "🇵🇫",
+      "keyword": ":flag pf:"
+    },
+    "newSnippet": {
+      "name": "🇵🇫 french polynesia ",
+      "snippet": "🇵🇫",
+      "keyword": ":french polynesia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇬 :flag pg: (papa new guinea)",
+      "snippet": "🇵🇬",
+      "keyword": ":flag pg:"
+    },
+    "newSnippet": {
+      "name": "🇵🇬 papua new guinea ",
+      "snippet": "🇵🇬",
+      "keyword": ":papua new guinea:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇭 :flag ph: (philippines)",
+      "snippet": "🇵🇭",
+      "keyword": ":flag ph:"
+    },
+    "newSnippet": {
+      "name": "🇵🇭 philippines ",
+      "snippet": "🇵🇭",
+      "keyword": ":philippines:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇰 :flag pk: (pakistan)",
+      "snippet": "🇵🇰",
+      "keyword": ":flag pk:"
+    },
+    "newSnippet": {
+      "name": "🇵🇰 pakistan ",
+      "snippet": "🇵🇰",
+      "keyword": ":pakistan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇱 :flag pl: (poland)",
+      "snippet": "🇵🇱",
+      "keyword": ":flag pl:"
+    },
+    "newSnippet": {
+      "name": "🇵🇱 poland ",
+      "snippet": "🇵🇱",
+      "keyword": ":poland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇲 :flag pm: (saint pierre and miquelon)",
+      "snippet": "🇵🇲",
+      "keyword": ":flag pm:"
+    },
+    "newSnippet": {
+      "name": "🇵🇲 st pierre miquelon ",
+      "snippet": "🇵🇲",
+      "keyword": ":st pierre miquelon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇳 :flag pn: (pitcairn)",
+      "snippet": "🇵🇳",
+      "keyword": ":flag pn:"
+    },
+    "newSnippet": {
+      "name": "🇵🇳 pitcairn islands ",
+      "snippet": "🇵🇳",
+      "keyword": ":pitcairn islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇷 :flag pr: (puerto rico)",
+      "snippet": "🇵🇷",
+      "keyword": ":flag pr:"
+    },
+    "newSnippet": {
+      "name": "🇵🇷 puerto rico ",
+      "snippet": "🇵🇷",
+      "keyword": ":puerto rico:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇸 :flag ps: (palestine)",
+      "snippet": "🇵🇸",
+      "keyword": ":flag ps:"
+    },
+    "newSnippet": {
+      "name": "🇵🇸 palestinian territories ",
+      "snippet": "🇵🇸",
+      "keyword": ":palestinian territories:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇹 :flag pt: (portugal)",
+      "snippet": "🇵🇹",
+      "keyword": ":flag pt:"
+    },
+    "newSnippet": {
+      "name": "🇵🇹 portugal ",
+      "snippet": "🇵🇹",
+      "keyword": ":portugal:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇼 :flag pw: (palau)",
+      "snippet": "🇵🇼",
+      "keyword": ":flag pw:"
+    },
+    "newSnippet": {
+      "name": "🇵🇼 palau ",
+      "snippet": "🇵🇼",
+      "keyword": ":palau:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇵🇾 :flag py: (paraguay)",
+      "snippet": "🇵🇾",
+      "keyword": ":flag py:"
+    },
+    "newSnippet": {
+      "name": "🇵🇾 paraguay ",
+      "snippet": "🇵🇾",
+      "keyword": ":paraguay:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇶🇦 :flag qa: (qatar)",
+      "snippet": "🇶🇦",
+      "keyword": ":flag qa:"
+    },
+    "newSnippet": {
+      "name": "🇶🇦 qatar ",
+      "snippet": "🇶🇦",
+      "keyword": ":qatar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇷🇪 :flag re: (reunion)",
+      "snippet": "🇷🇪",
+      "keyword": ":flag re:"
+    },
+    "newSnippet": {
+      "name": "🇷🇪 reunion ",
+      "snippet": "🇷🇪",
+      "keyword": ":reunion:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇷🇴 :flag ro: (romania)",
+      "snippet": "🇷🇴",
+      "keyword": ":flag ro:"
+    },
+    "newSnippet": {
+      "name": "🇷🇴 romania ",
+      "snippet": "🇷🇴",
+      "keyword": ":romania:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇷🇸 :flag rs: (serbia)",
+      "snippet": "🇷🇸",
+      "keyword": ":flag rs:"
+    },
+    "newSnippet": {
+      "name": "🇷🇸 serbia ",
+      "snippet": "🇷🇸",
+      "keyword": ":serbia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇷🇺 :flag ru: (russia)",
+      "snippet": "🇷🇺",
+      "keyword": ":flag ru:"
+    },
+    "newSnippet": {
+      "name": "🇷🇺 ru - russia",
+      "snippet": "🇷🇺",
+      "keyword": ":ru:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇷🇼 :flag rw: (rwanda)",
+      "snippet": "🇷🇼",
+      "keyword": ":flag rw:"
+    },
+    "newSnippet": {
+      "name": "🇷🇼 rwanda ",
+      "snippet": "🇷🇼",
+      "keyword": ":rwanda:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇦 :flag sa: (saudi arabia)",
+      "snippet": "🇸🇦",
+      "keyword": ":flag sa:"
+    },
+    "newSnippet": {
+      "name": "🇸🇦 saudi arabia ",
+      "snippet": "🇸🇦",
+      "keyword": ":saudi arabia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇧 :flag sb: (solomon islands)",
+      "snippet": "🇸🇧",
+      "keyword": ":flag sb:"
+    },
+    "newSnippet": {
+      "name": "🇸🇧 solomon islands ",
+      "snippet": "🇸🇧",
+      "keyword": ":solomon islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇨 :flag sc: (seychelles)",
+      "snippet": "🇸🇨",
+      "keyword": ":flag sc:"
+    },
+    "newSnippet": {
+      "name": "🇸🇨 seychelles ",
+      "snippet": "🇸🇨",
+      "keyword": ":seychelles:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇩 :flag sd: (sudan)",
+      "snippet": "🇸🇩",
+      "keyword": ":flag sd:"
+    },
+    "newSnippet": {
+      "name": "🇸🇩 sudan ",
+      "snippet": "🇸🇩",
+      "keyword": ":sudan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇪 :flag se: (sweden)",
+      "snippet": "🇸🇪",
+      "keyword": ":flag se:"
+    },
+    "newSnippet": {
+      "name": "🇸🇪 sweden ",
+      "snippet": "🇸🇪",
+      "keyword": ":sweden:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇬 :flag sg: (singapore)",
+      "snippet": "🇸🇬",
+      "keyword": ":flag sg:"
+    },
+    "newSnippet": {
+      "name": "🇸🇬 singapore ",
+      "snippet": "🇸🇬",
+      "keyword": ":singapore:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇭 :flag sh: (saint helena)",
+      "snippet": "🇸🇭",
+      "keyword": ":flag sh:"
+    },
+    "newSnippet": {
+      "name": "🇸🇭 st helena ",
+      "snippet": "🇸🇭",
+      "keyword": ":st helena:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇮 :flag si: (slovenia)",
+      "snippet": "🇸🇮",
+      "keyword": ":flag si:"
+    },
+    "newSnippet": {
+      "name": "🇸🇮 slovenia ",
+      "snippet": "🇸🇮",
+      "keyword": ":slovenia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇯 :flag sj: (svalbard and jan mayen)",
+      "snippet": "🇸🇯",
+      "keyword": ":flag sj:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇰 :flag sk: (slovakia)",
+      "snippet": "🇸🇰",
+      "keyword": ":flag sk:"
+    },
+    "newSnippet": {
+      "name": "🇸🇰 slovakia ",
+      "snippet": "🇸🇰",
+      "keyword": ":slovakia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇱 :flag sl: (sierra leone)",
+      "snippet": "🇸🇱",
+      "keyword": ":flag sl:"
+    },
+    "newSnippet": {
+      "name": "🇸🇱 sierra leone ",
+      "snippet": "🇸🇱",
+      "keyword": ":sierra leone:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇲 :flag sm: (san marino)",
+      "snippet": "🇸🇲",
+      "keyword": ":flag sm:"
+    },
+    "newSnippet": {
+      "name": "🇸🇲 san marino ",
+      "snippet": "🇸🇲",
+      "keyword": ":san marino:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇳 :flag sn: (senegal)",
+      "snippet": "🇸🇳",
+      "keyword": ":flag sn:"
+    },
+    "newSnippet": {
+      "name": "🇸🇳 senegal ",
+      "snippet": "🇸🇳",
+      "keyword": ":senegal:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇴 :flag so: (somalia)",
+      "snippet": "🇸🇴",
+      "keyword": ":flag so:"
+    },
+    "newSnippet": {
+      "name": "🇸🇴 somalia ",
+      "snippet": "🇸🇴",
+      "keyword": ":somalia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇷 :flag sr: (suriname)",
+      "snippet": "🇸🇷",
+      "keyword": ":flag sr:"
+    },
+    "newSnippet": {
+      "name": "🇸🇷 suriname ",
+      "snippet": "🇸🇷",
+      "keyword": ":suriname:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇸 :flag ss: (south sudan)",
+      "snippet": "🇸🇸",
+      "keyword": ":flag ss:"
+    },
+    "newSnippet": {
+      "name": "🇸🇸 south sudan ",
+      "snippet": "🇸🇸",
+      "keyword": ":south sudan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇹 :flag st: (sao tome and principe)",
+      "snippet": "🇸🇹",
+      "keyword": ":flag st:"
+    },
+    "newSnippet": {
+      "name": "🇸🇹 sao tome principe ",
+      "snippet": "🇸🇹",
+      "keyword": ":sao tome principe:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇻 :flag sv: (el salvador)",
+      "snippet": "🇸🇻",
+      "keyword": ":flag sv:"
+    },
+    "newSnippet": {
+      "name": "🇸🇻 el salvador ",
+      "snippet": "🇸🇻",
+      "keyword": ":el salvador:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇽 :flag sx: (sint maarten)",
+      "snippet": "🇸🇽",
+      "keyword": ":flag sx:"
+    },
+    "newSnippet": {
+      "name": "🇸🇽 sint maarten ",
+      "snippet": "🇸🇽",
+      "keyword": ":sint maarten:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇾 :flag sy: (syria)",
+      "snippet": "🇸🇾",
+      "keyword": ":flag sy:"
+    },
+    "newSnippet": {
+      "name": "🇸🇾 syria ",
+      "snippet": "🇸🇾",
+      "keyword": ":syria:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇸🇿 :flag sz: (swaziland)",
+      "snippet": "🇸🇿",
+      "keyword": ":flag sz:"
+    },
+    "newSnippet": {
+      "name": "🇸🇿 swaziland ",
+      "snippet": "🇸🇿",
+      "keyword": ":swaziland:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇦 :flag ta: (tristan de cunha)",
+      "snippet": "🇹🇦",
+      "keyword": ":flag ta:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇨 :flag tc: (turks and caicos islands)",
+      "snippet": "🇹🇨",
+      "keyword": ":flag tc:"
+    },
+    "newSnippet": {
+      "name": "🇹🇨 turks caicos islands ",
+      "snippet": "🇹🇨",
+      "keyword": ":turks caicos islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇩 :flag td: (chad)",
+      "snippet": "🇹🇩",
+      "keyword": ":flag td:"
+    },
+    "newSnippet": {
+      "name": "🇹🇩 chad ",
+      "snippet": "🇹🇩",
+      "keyword": ":chad:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇫 :flag tf: (french southern territories)",
+      "snippet": "🇹🇫",
+      "keyword": ":flag tf:"
+    },
+    "newSnippet": {
+      "name": "🇹🇫 french southern territories ",
+      "snippet": "🇹🇫",
+      "keyword": ":french southern territories:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇬 :flag tg: (togo)",
+      "snippet": "🇹🇬",
+      "keyword": ":flag tg:"
+    },
+    "newSnippet": {
+      "name": "🇹🇬 togo ",
+      "snippet": "🇹🇬",
+      "keyword": ":togo:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇭 :flag th: (thailand)",
+      "snippet": "🇹🇭",
+      "keyword": ":flag th:"
+    },
+    "newSnippet": {
+      "name": "🇹🇭 thailand ",
+      "snippet": "🇹🇭",
+      "keyword": ":thailand:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇯 :flag tj: (tajikistan)",
+      "snippet": "🇹🇯",
+      "keyword": ":flag tj:"
+    },
+    "newSnippet": {
+      "name": "🇹🇯 tajikistan ",
+      "snippet": "🇹🇯",
+      "keyword": ":tajikistan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇰 :flag tk: (tokelau)",
+      "snippet": "🇹🇰",
+      "keyword": ":flag tk:"
+    },
+    "newSnippet": {
+      "name": "🇹🇰 tokelau ",
+      "snippet": "🇹🇰",
+      "keyword": ":tokelau:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇱 :flag tl: (timor leste)",
+      "snippet": "🇹🇱",
+      "keyword": ":flag tl:"
+    },
+    "newSnippet": {
+      "name": "🇹🇱 timor leste ",
+      "snippet": "🇹🇱",
+      "keyword": ":timor leste:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇲 :flag tm: (turkmenistan)",
+      "snippet": "🇹🇲",
+      "keyword": ":flag tm:"
+    },
+    "newSnippet": {
+      "name": "🇹🇲 turkmenistan ",
+      "snippet": "🇹🇲",
+      "keyword": ":turkmenistan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇳 :flag tn: (tunisia)",
+      "snippet": "🇹🇳",
+      "keyword": ":flag tn:"
+    },
+    "newSnippet": {
+      "name": "🇹🇳 tunisia ",
+      "snippet": "🇹🇳",
+      "keyword": ":tunisia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇴 :flag to: (tonga)",
+      "snippet": "🇹🇴",
+      "keyword": ":flag to:"
+    },
+    "newSnippet": {
+      "name": "🇹🇴 tonga ",
+      "snippet": "🇹🇴",
+      "keyword": ":tonga:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇷 :flag tr: (turkey)",
+      "snippet": "🇹🇷",
+      "keyword": ":flag tr:"
+    },
+    "newSnippet": {
+      "name": "🇹🇷 tr - turkey",
+      "snippet": "🇹🇷",
+      "keyword": ":tr:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇹 :flag tt: (trinidad and tobago)",
+      "snippet": "🇹🇹",
+      "keyword": ":flag tt:"
+    },
+    "newSnippet": {
+      "name": "🇹🇹 trinidad tobago ",
+      "snippet": "🇹🇹",
+      "keyword": ":trinidad tobago:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇻 :flag tv: (tuvalu)",
+      "snippet": "🇹🇻",
+      "keyword": ":flag tv:"
+    },
+    "newSnippet": {
+      "name": "🇹🇻 tuvalu ",
+      "snippet": "🇹🇻",
+      "keyword": ":tuvalu:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇼 :flag tw: (taiwan)",
+      "snippet": "🇹🇼",
+      "keyword": ":flag tw:"
+    },
+    "newSnippet": {
+      "name": "🇹🇼 taiwan ",
+      "snippet": "🇹🇼",
+      "keyword": ":taiwan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇹🇿 :flag tz: (tanzania)",
+      "snippet": "🇹🇿",
+      "keyword": ":flag tz:"
+    },
+    "newSnippet": {
+      "name": "🇹🇿 tanzania ",
+      "snippet": "🇹🇿",
+      "keyword": ":tanzania:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇺🇦 :flag ua: (ukraine)",
+      "snippet": "🇺🇦",
+      "keyword": ":flag ua:"
+    },
+    "newSnippet": {
+      "name": "🇺🇦 ukraine ",
+      "snippet": "🇺🇦",
+      "keyword": ":ukraine:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇺🇬 :flag ug: (uganda)",
+      "snippet": "🇺🇬",
+      "keyword": ":flag ug:"
+    },
+    "newSnippet": {
+      "name": "🇺🇬 uganda ",
+      "snippet": "🇺🇬",
+      "keyword": ":uganda:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇺🇸 :flag us: (united states of america)",
+      "snippet": "🇺🇸",
+      "keyword": ":flag us:"
+    },
+    "newSnippet": {
+      "name": "🇺🇸 us - flag united america",
+      "snippet": "🇺🇸",
+      "keyword": ":us:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇺🇾 :flag uy: (uruguay)",
+      "snippet": "🇺🇾",
+      "keyword": ":flag uy:"
+    },
+    "newSnippet": {
+      "name": "🇺🇾 uruguay ",
+      "snippet": "🇺🇾",
+      "keyword": ":uruguay:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇺🇿 :flag uz: (uzbekistan)",
+      "snippet": "🇺🇿",
+      "keyword": ":flag uz:"
+    },
+    "newSnippet": {
+      "name": "🇺🇿 uzbekistan ",
+      "snippet": "🇺🇿",
+      "keyword": ":uzbekistan:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇦 :flag va: (vatican city)",
+      "snippet": "🇻🇦",
+      "keyword": ":flag va:"
+    },
+    "newSnippet": {
+      "name": "🇻🇦 vatican city ",
+      "snippet": "🇻🇦",
+      "keyword": ":vatican city:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇨 :flag vc: (saint vincent and the grenadines)",
+      "snippet": "🇻🇨",
+      "keyword": ":flag vc:"
+    },
+    "newSnippet": {
+      "name": "🇻🇨 st vincent grenadines ",
+      "snippet": "🇻🇨",
+      "keyword": ":st vincent grenadines:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇪 :flag ve: (venezuela)",
+      "snippet": "🇻🇪",
+      "keyword": ":flag ve:"
+    },
+    "newSnippet": {
+      "name": "🇻🇪 venezuela ",
+      "snippet": "🇻🇪",
+      "keyword": ":venezuela:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇬 :flag vg: (virgin islands, british)",
+      "snippet": "🇻🇬",
+      "keyword": ":flag vg:"
+    },
+    "newSnippet": {
+      "name": "🇻🇬 british virgin islands ",
+      "snippet": "🇻🇬",
+      "keyword": ":british virgin islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇮 :flag vi: (virgin islands, us)",
+      "snippet": "🇻🇮",
+      "keyword": ":flag vi:"
+    },
+    "newSnippet": {
+      "name": "🇻🇮 us virgin islands ",
+      "snippet": "🇻🇮",
+      "keyword": ":us virgin islands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇳 :flag vn: (vietnam)",
+      "snippet": "🇻🇳",
+      "keyword": ":flag vn:"
+    },
+    "newSnippet": {
+      "name": "🇻🇳 vietnam ",
+      "snippet": "🇻🇳",
+      "keyword": ":vietnam:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇻🇺 :flag vu: (vanuatu)",
+      "snippet": "🇻🇺",
+      "keyword": ":flag vu:"
+    },
+    "newSnippet": {
+      "name": "🇻🇺 vanuatu ",
+      "snippet": "🇻🇺",
+      "keyword": ":vanuatu:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇼🇫 :flag wf: (wallis and futuna)",
+      "snippet": "🇼🇫",
+      "keyword": ":flag wf:"
+    },
+    "newSnippet": {
+      "name": "🇼🇫 wallis futuna ",
+      "snippet": "🇼🇫",
+      "keyword": ":wallis futuna:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇼🇸 :flag ws: (samoa)",
+      "snippet": "🇼🇸",
+      "keyword": ":flag ws:"
+    },
+    "newSnippet": {
+      "name": "🇼🇸 samoa ",
+      "snippet": "🇼🇸",
+      "keyword": ":samoa:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇽🇰 :flag xk: (kosovo)",
+      "snippet": "🇽🇰",
+      "keyword": ":flag xk:"
+    },
+    "newSnippet": {
+      "name": "🇽🇰 kosovo ",
+      "snippet": "🇽🇰",
+      "keyword": ":kosovo:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇾🇪 :flag ye: (yemen)",
+      "snippet": "🇾🇪",
+      "keyword": ":flag ye:"
+    },
+    "newSnippet": {
+      "name": "🇾🇪 yemen ",
+      "snippet": "🇾🇪",
+      "keyword": ":yemen:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇾🇹 :flag yt: (mayotte)",
+      "snippet": "🇾🇹",
+      "keyword": ":flag yt:"
+    },
+    "newSnippet": {
+      "name": "🇾🇹 mayotte ",
+      "snippet": "🇾🇹",
+      "keyword": ":mayotte:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇿🇦 :flag za: (south africa)",
+      "snippet": "🇿🇦",
+      "keyword": ":flag za:"
+    },
+    "newSnippet": {
+      "name": "🇿🇦 south africa ",
+      "snippet": "🇿🇦",
+      "keyword": ":south africa:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇿🇲 :flag zm: (zambia)",
+      "snippet": "🇿🇲",
+      "keyword": ":flag zm:"
+    },
+    "newSnippet": {
+      "name": "🇿🇲 zambia ",
+      "snippet": "🇿🇲",
+      "keyword": ":zambia:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🇿🇼 :flag zw: (zimbabwe)",
+      "snippet": "🇿🇼",
+      "keyword": ":flag zw:"
+    },
+    "newSnippet": {
+      "name": "🇿🇼 zimbabwe ",
+      "snippet": "🇿🇼",
+      "keyword": ":zimbabwe:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🉐 :advantage: (ideograph)",
+      "snippet": "🉐",
+      "keyword": ":advantage:"
+    },
+    "newSnippet": {
+      "name": "🉐 ideograph advantage ",
+      "snippet": "🉐",
+      "keyword": ":ideograph advantage:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌃 :starry night:",
+      "snippet": "🌃",
+      "keyword": ":starry night:"
+    },
+    "newSnippet": {
+      "name": "🌃 night with stars ",
+      "snippet": "🌃",
+      "keyword": ":night with stars:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌄 :mountain sunrise:",
+      "snippet": "🌄",
+      "keyword": ":mountain sunrise:"
+    },
+    "newSnippet": {
+      "name": "🌄 sunrise over mountains ",
+      "snippet": "🌄",
+      "keyword": ":sunrise over mountains:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌉 :night bridge:",
+      "snippet": "🌉",
+      "keyword": ":night bridge:"
+    },
+    "newSnippet": {
+      "name": "🌉 bridge at night ",
+      "snippet": "🌉",
+      "keyword": ":bridge at night:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌎 :earth:",
+      "snippet": "🌎",
+      "keyword": ":earth:"
+    },
+    "newSnippet": {
+      "name": "🌎 earth americas - globe world international",
+      "snippet": "🌎",
+      "keyword": ":earth americas:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌐 :globe: (meridians)",
+      "snippet": "🌐",
+      "keyword": ":globe:"
+    },
+    "newSnippet": {
+      "name": "🌐 globe with meridians - world global international",
+      "snippet": "🌐",
+      "keyword": ":globe with meridians:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌑 :moon1: (new moon)",
+      "snippet": "🌑",
+      "keyword": ":moon1:"
+    },
+    "newSnippet": {
+      "name": "🌑 new moon ",
+      "snippet": "🌑",
+      "keyword": ":new moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌒 :moon2: (waxing crescent moon)",
+      "snippet": "🌒",
+      "keyword": ":moon2:"
+    },
+    "newSnippet": {
+      "name": "🌒 waxing crescent moon ",
+      "snippet": "🌒",
+      "keyword": ":waxing crescent moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌓 :moon3: (first quarter moon)",
+      "snippet": "🌓",
+      "keyword": ":moon3:"
+    },
+    "newSnippet": {
+      "name": "🌓 first quarter moon ",
+      "snippet": "🌓",
+      "keyword": ":first quarter moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌔 :moon4: (waxing gibbous moon:",
+      "snippet": "🌔",
+      "keyword": ":moon4:"
+    },
+    "newSnippet": {
+      "name": "🌔 moon waxing gibbous moon ",
+      "snippet": "🌔",
+      "keyword": ":moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌕 :moon5: (full moon)",
+      "snippet": "🌕",
+      "keyword": ":moon5:"
+    },
+    "newSnippet": {
+      "name": "🌕 full moon ",
+      "snippet": "🌕",
+      "keyword": ":full moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌖 :moon6: (waning gibbous moon)",
+      "snippet": "🌖",
+      "keyword": ":moon6:"
+    },
+    "newSnippet": {
+      "name": "🌖 waning gibbous moon ",
+      "snippet": "🌖",
+      "keyword": ":waning gibbous moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌗 :moon7: (last quarter moon)",
+      "snippet": "🌗",
+      "keyword": ":moon7:"
+    },
+    "newSnippet": {
+      "name": "🌗 last quarter moon ",
+      "snippet": "🌗",
+      "keyword": ":last quarter moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌘 :moon8: (waning crescent moon)",
+      "snippet": "🌘",
+      "keyword": ":moon8:"
+    },
+    "newSnippet": {
+      "name": "🌘 waning crescent moon ",
+      "snippet": "🌘",
+      "keyword": ":waning crescent moon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌚 :new moon face:",
+      "snippet": "🌚",
+      "keyword": ":new moon face:"
+    },
+    "newSnippet": {
+      "name": "🌚 new moon with face ",
+      "snippet": "🌚",
+      "keyword": ":new moon with face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌛 :moon face2: (first quarter)",
+      "snippet": "🌛",
+      "keyword": ":moon face2:"
+    },
+    "newSnippet": {
+      "name": "🌛 first quarter moon with face ",
+      "snippet": "🌛",
+      "keyword": ":first quarter moon with face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌜 :moon face3: (last quarter)",
+      "snippet": "🌜",
+      "keyword": ":moon face3:"
+    },
+    "newSnippet": {
+      "name": "🌜 last quarter moon with face ",
+      "snippet": "🌜",
+      "keyword": ":last quarter moon with face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌝 :moon face: (full moon)",
+      "snippet": "🌝",
+      "keyword": ":moon face:"
+    },
+    "newSnippet": {
+      "name": "🌝 full moon with face ",
+      "snippet": "🌝",
+      "keyword": ":full moon with face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌞 :sun face:",
+      "snippet": "🌞",
+      "keyword": ":sun face:"
+    },
+    "newSnippet": {
+      "name": "🌞 sun with face - summer",
+      "snippet": "🌞",
+      "keyword": ":sun with face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌤 :mostly sunny: (cloud / weather)",
+      "snippet": "🌤",
+      "keyword": ":mostly sunny:"
+    },
+    "newSnippet": {
+      "name": "🌤 sun behind small cloud ",
+      "snippet": "🌤",
+      "keyword": ":sun behind small cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌤 :sunny cloud: (weather)",
+      "snippet": "🌤",
+      "keyword": ":sunny cloud:"
+    },
+    "newSnippet": {
+      "name": "🌤 sun behind small cloud ",
+      "snippet": "🌤",
+      "keyword": ":sun behind small cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌥 :barely sunny: (cloud / weather)",
+      "snippet": "🌥",
+      "keyword": ":barely sunny:"
+    },
+    "newSnippet": {
+      "name": "🌥 sun behind large cloud ",
+      "snippet": "🌥",
+      "keyword": ":sun behind large cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌥 :sun behind cloud: (weather)",
+      "snippet": "🌥",
+      "keyword": ":sun behind cloud:"
+    },
+    "newSnippet": {
+      "name": "🌥 sun behind large cloud ",
+      "snippet": "🌥",
+      "keyword": ":sun behind large cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌦 :partly sunny rain: (cloud / weather)",
+      "snippet": "🌦",
+      "keyword": ":partly sunny rain:"
+    },
+    "newSnippet": {
+      "name": "🌦 sun behind rain cloud ",
+      "snippet": "🌦",
+      "keyword": ":sun behind rain cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌦 :sun rain: (cloud / weather)",
+      "snippet": "🌦",
+      "keyword": ":sun rain:"
+    },
+    "newSnippet": {
+      "name": "🌦 sun behind rain cloud ",
+      "snippet": "🌦",
+      "keyword": ":sun behind rain cloud:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌧 :rain cloud: (weather)",
+      "snippet": "🌧",
+      "keyword": ":rain cloud:"
+    },
+    "newSnippet": {
+      "name": "🌧 cloud with rain ",
+      "snippet": "🌧",
+      "keyword": ":cloud with rain:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌨 :snow cloud: (weather)",
+      "snippet": "🌨",
+      "keyword": ":snow cloud:"
+    },
+    "newSnippet": {
+      "name": "🌨 cloud with snow ",
+      "snippet": "🌨",
+      "keyword": ":cloud with snow:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌩 :lightning cloud: (weather)",
+      "snippet": "🌩",
+      "keyword": ":lightning cloud:"
+    },
+    "newSnippet": {
+      "name": "🌩 cloud with lightning ",
+      "snippet": "🌩",
+      "keyword": ":cloud with lightning:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌪 :tornado cloud: (weather)",
+      "snippet": "🌪",
+      "keyword": ":tornado cloud:"
+    },
+    "newSnippet": {
+      "name": "🌪 tornado ",
+      "snippet": "🌪",
+      "keyword": ":tornado:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌲 :evergreen: (tree)",
+      "snippet": "🌲",
+      "keyword": ":evergreen: (tree)"
+    },
+    "newSnippet": {
+      "name": "🌲 evergreen tree - wood",
+      "snippet": "🌲",
+      "keyword": ":evergreen tree:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌳 :deciduous: (tree)",
+      "snippet": "🌳",
+      "keyword": ":deciduous: (tree)"
+    },
+    "newSnippet": {
+      "name": "🌳 deciduous tree - wood",
+      "snippet": "🌳",
+      "keyword": ":deciduous tree:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🌶 :pepper:",
+      "snippet": "🌶",
+      "keyword": ":pepper:"
+    },
+    "newSnippet": {
+      "name": "🌶 hot pepper - spicy",
+      "snippet": "🌶",
+      "keyword": ":hot pepper:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍀 :clover: (four leaf)",
+      "snippet": "🍀",
+      "keyword": ":clover:"
+    },
+    "newSnippet": {
+      "name": "🍀 four leaf clover - luck",
+      "snippet": "🍀",
+      "keyword": ":four leaf clover:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍁 :maple: (leaf)",
+      "snippet": "🍁",
+      "keyword": ":maple:"
+    },
+    "newSnippet": {
+      "name": "🍁 maple leaf - canada",
+      "snippet": "🍁",
+      "keyword": ":maple leaf:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍖 :meat: (bone)",
+      "snippet": "🍖",
+      "keyword": ":meat:"
+    },
+    "newSnippet": {
+      "name": "🍖 meat on bone ",
+      "snippet": "🍖",
+      "keyword": ":meat on bone:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍗 :chicken leg: (poultry)",
+      "snippet": "🍗",
+      "keyword": ":chicken leg:"
+    },
+    "newSnippet": {
+      "name": "🍗 poultry leg - meat chicken",
+      "snippet": "🍗",
+      "keyword": ":poultry leg:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍨 :icecream2:",
+      "snippet": "🍨",
+      "keyword": ":icecream2:"
+    },
+    "newSnippet": {
+      "name": "🍨 ice cream ",
+      "snippet": "🍨",
+      "keyword": ":ice cream:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍩 :donut:",
+      "snippet": "🍩",
+      "keyword": ":donut:"
+    },
+    "newSnippet": {
+      "name": "🍩 doughnut ",
+      "snippet": "🍩",
+      "keyword": ":doughnut:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍫 :chocolate: (bar)",
+      "snippet": "🍫",
+      "keyword": ":chocolate:"
+    },
+    "newSnippet": {
+      "name": "🍫 chocolate bar ",
+      "snippet": "🍫",
+      "keyword": ":chocolate bar:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍯 :honey: (pot)",
+      "snippet": "🍯",
+      "keyword": ":honey:"
+    },
+    "newSnippet": {
+      "name": "🍯 honey pot ",
+      "snippet": "🍯",
+      "keyword": ":honey pot:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍴 :cutlery: (knife and fork)",
+      "snippet": "🍴",
+      "keyword": ":cutlery:"
+    },
+    "newSnippet": {
+      "name": "🍴 fork and knife - cutlery",
+      "snippet": "🍴",
+      "keyword": ":fork and knife:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🍽 :plate: (eat knife fork cutlery)",
+      "snippet": "🍽",
+      "keyword": ":plate:"
+    },
+    "newSnippet": {
+      "name": "🍽 plate with cutlery - dining dinner",
+      "snippet": "🍽",
+      "keyword": ":plate with cutlery:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎃 :halloween:",
+      "snippet": "🎃",
+      "keyword": ":halloween:"
+    },
+    "newSnippet": {
+      "name": "🎃 jack o lantern - halloween",
+      "snippet": "🎃",
+      "keyword": ":jack o lantern:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎄 :christmas: (tree)",
+      "snippet": "🎄",
+      "keyword": ":christmas:"
+    },
+    "newSnippet": {
+      "name": "🎄 christmas tree ",
+      "snippet": "🎄",
+      "keyword": ":christmas tree:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎉 :party:",
+      "snippet": "🎉",
+      "keyword": ":party:"
+    },
+    "newSnippet": {
+      "name": "🎉 tada - hooray party",
+      "snippet": "🎉",
+      "keyword": ":tada:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎊 :confetti:",
+      "snippet": "🎊",
+      "keyword": ":confetti:"
+    },
+    "newSnippet": {
+      "name": "🎊 confetti ball ",
+      "snippet": "🎊",
+      "keyword": ":confetti ball:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎒 :satchel: (school)",
+      "snippet": "🎒",
+      "keyword": ":satchel:"
+    },
+    "newSnippet": {
+      "name": "🎒 school satchel ",
+      "snippet": "🎒",
+      "keyword": ":school satchel:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎓 :graduation: (mortar board)",
+      "snippet": "🎓",
+      "keyword": ":graduation:"
+    },
+    "newSnippet": {
+      "name": "🎓 mortar board - education college university graduation",
+      "snippet": "🎓",
+      "keyword": ":mortar board:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎙 :microphone2: (studio)",
+      "snippet": "🎙",
+      "keyword": ":microphone2:"
+    },
+    "newSnippet": {
+      "name": "🎙 studio microphone - podcast",
+      "snippet": "🎙",
+      "keyword": ":studio microphone:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎞 :film frames: (studio)",
+      "snippet": "🎞",
+      "keyword": ":film frames:"
+    },
+    "newSnippet": {
+      "name": "🎞 film strip ",
+      "snippet": "🎞",
+      "keyword": ":film strip:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎠 :carousel: (horse)",
+      "snippet": "🎠",
+      "keyword": ":carousel:"
+    },
+    "newSnippet": {
+      "name": "🎠 carousel horse ",
+      "snippet": "🎠",
+      "keyword": ":carousel horse:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎣 :fishing: (pole and fish)",
+      "snippet": "🎣",
+      "keyword": ":fishing:"
+    },
+    "newSnippet": {
+      "name": "🎣 fishing pole and fish ",
+      "snippet": "🎣",
+      "keyword": ":fishing pole and fish:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎥 :movie: (camera)",
+      "snippet": "🎥",
+      "keyword": ":movie:"
+    },
+    "newSnippet": {
+      "name": "🎥 movie camera - film video",
+      "snippet": "🎥",
+      "keyword": ":movie camera:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎭 :arts: (performing arts)",
+      "snippet": "🎭",
+      "keyword": ":arts:"
+    },
+    "newSnippet": {
+      "name": "🎭 performing arts - theater drama",
+      "snippet": "🎭",
+      "keyword": ":performing arts:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎲 :dice: (die)",
+      "snippet": "🎲",
+      "keyword": ":dice:"
+    },
+    "newSnippet": {
+      "name": "🎲 game die - dice gambling",
+      "snippet": "🎲",
+      "keyword": ":game die:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎴 :playing cards: (flower)",
+      "snippet": "🎴",
+      "keyword": ":playing cards:"
+    },
+    "newSnippet": {
+      "name": "🎴 flower playing cards ",
+      "snippet": "🎴",
+      "keyword": ":flower playing cards:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎵 :note: (musical)",
+      "snippet": "🎵",
+      "keyword": ":note:"
+    },
+    "newSnippet": {
+      "name": "🎵 musical note ",
+      "snippet": "🎵",
+      "keyword": ":musical note:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎹 :piano: (keyboard)",
+      "snippet": "🎹",
+      "keyword": ":piano:"
+    },
+    "newSnippet": {
+      "name": "🎹 musical keyboard - piano",
+      "snippet": "🎹",
+      "keyword": ":musical keyboard:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎼 :score: (musical)",
+      "snippet": "🎼",
+      "keyword": ":score:"
+    },
+    "newSnippet": {
+      "name": "🎼 musical score ",
+      "snippet": "🎼",
+      "keyword": ":musical score:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🎽 :running shirt: (with sash)",
+      "snippet": "🎽",
+      "keyword": ":running shirt:"
+    },
+    "newSnippet": {
+      "name": "🎽 running shirt with sash - marathon",
+      "snippet": "🎽",
+      "keyword": ":running shirt with sash:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏃 :run:",
+      "snippet": "🏃",
+      "keyword": ":run:"
+    },
+    "newSnippet": {
+      "name": "🏃 running man runner running - exercise workout marathon",
+      "snippet": "🏃",
+      "keyword": ":running man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏅 :gold medal: (sports)",
+      "snippet": "🏅",
+      "keyword": ":gold medal:"
+    },
+    "newSnippet": {
+      "name": "🏅 medal sports - gold winner",
+      "snippet": "🏅",
+      "keyword": ":medal sports:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏉 :rugby: (football)",
+      "snippet": "🏉",
+      "keyword": ":rugby:"
+    },
+    "newSnippet": {
+      "name": "🏉 rugby football ",
+      "snippet": "🏉",
+      "keyword": ":rugby football:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏊 :swim:",
+      "snippet": "🏊",
+      "keyword": ":swim:"
+    },
+    "newSnippet": {
+      "name": "🏊 swimming man swimmer ",
+      "snippet": "🏊",
+      "keyword": ":swimming man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏋 :weights: (lifter)",
+      "snippet": "🏋",
+      "keyword": ":weights:"
+    },
+    "newSnippet": {
+      "name": "🏋 weight lifting man - gym workout",
+      "snippet": "🏋",
+      "keyword": ":weight lifting man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏎 :racecar: (racing)",
+      "snippet": "🏎",
+      "keyword": ":racecar:"
+    },
+    "newSnippet": {
+      "name": "🏎 racing car ",
+      "snippet": "🏎",
+      "keyword": ":racing car:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏑 :hockey: (stick and ball)",
+      "snippet": "🏑",
+      "keyword": ":hockey:"
+    },
+    "newSnippet": {
+      "name": "🏑 field hockey ",
+      "snippet": "🏑",
+      "keyword": ":field hockey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏓 :table tennis: (paddle and ball)",
+      "snippet": "🏓",
+      "keyword": ":table tennis:"
+    },
+    "newSnippet": {
+      "name": "🏓 ping pong ",
+      "snippet": "🏓",
+      "keyword": ":ping pong:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏔 :snow mountain:",
+      "snippet": "🏔",
+      "keyword": ":snow mountain:"
+    },
+    "newSnippet": {
+      "name": "🏔 mountain snow ",
+      "snippet": "🏔",
+      "keyword": ":mountain snow:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏚 :derelict: (house building)",
+      "snippet": "🏚",
+      "keyword": ":derelict:"
+    },
+    "newSnippet": {
+      "name": "🏚 derelict house ",
+      "snippet": "🏚",
+      "keyword": ":derelict house:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🏡 :house garden:",
+      "snippet": "🏡",
+      "keyword": ":house garden:"
+    },
+    "newSnippet": {
+      "name": "🏡 house with garden ",
+      "snippet": "🏡",
+      "keyword": ":house with garden:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐃 :buffalo: (water)",
+      "snippet": "🐃",
+      "keyword": ":buffalo:"
+    },
+    "newSnippet": {
+      "name": "🐃 water buffalo ",
+      "snippet": "🐃",
+      "keyword": ":water buffalo:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐒 :monkey2:",
+      "snippet": "🐒",
+      "keyword": ":monkey2:"
+    },
+    "newSnippet": {
+      "name": "🐒 monkey ",
+      "snippet": "🐒",
+      "keyword": ":monkey:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐣 :hatching: (chick)",
+      "snippet": "🐣",
+      "keyword": ":hatching:"
+    },
+    "newSnippet": {
+      "name": "🐣 hatching chick ",
+      "snippet": "🐣",
+      "keyword": ":hatching chick:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐤 :chick:",
+      "snippet": "🐤",
+      "keyword": ":chick:"
+    },
+    "newSnippet": {
+      "name": "🐤 baby chick ",
+      "snippet": "🐤",
+      "keyword": ":baby chick:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐥 :hatched: (chick)",
+      "snippet": "🐥",
+      "keyword": ":hatched:"
+    },
+    "newSnippet": {
+      "name": "🐥 hatched chick ",
+      "snippet": "🐥",
+      "keyword": ":hatched chick:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐪 :camel2: (dromedary)",
+      "snippet": "🐪",
+      "keyword": ":camel2:"
+    },
+    "newSnippet": {
+      "name": "🐪 dromedary camel - desert",
+      "snippet": "🐪",
+      "keyword": ":dromedary camel:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐲 :dragon2:",
+      "snippet": "🐲",
+      "keyword": ":dragon2:"
+    },
+    "newSnippet": {
+      "name": "🐲 dragon face ",
+      "snippet": "🐲",
+      "keyword": ":dragon face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🐼 :panda:",
+      "snippet": "🐼",
+      "keyword": ":panda:"
+    },
+    "newSnippet": {
+      "name": "🐼 panda face ",
+      "snippet": "🐼",
+      "keyword": ":panda face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👊 :face punch:",
+      "snippet": "👊",
+      "keyword": ":face punch:"
+    },
+    "newSnippet": {
+      "name": "👊 fist oncoming facepunch punch - attack",
+      "snippet": "👊",
+      "keyword": ":fist oncoming:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👊 :fist bump:",
+      "snippet": "👊",
+      "keyword": ":fist bump:"
+    },
+    "newSnippet": {
+      "name": "👊 fist oncoming facepunch punch - attack",
+      "snippet": "👊",
+      "keyword": ":fist oncoming:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👍 :thumbs up:",
+      "snippet": "👍",
+      "keyword": ":thumbs up:"
+    },
+    "newSnippet": {
+      "name": "👍 +1 thumbsup - approve ok",
+      "snippet": "👍",
+      "keyword": ":+1:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👎 :thumbs down:",
+      "snippet": "👎",
+      "keyword": ":thumbs down:"
+    },
+    "newSnippet": {
+      "name": "👎 -1 thumbsdown - disapprove bury",
+      "snippet": "👎",
+      "keyword": ":-1:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👤 :person: (bust in silhouette)",
+      "snippet": "👤",
+      "keyword": ":person:"
+    },
+    "newSnippet": {
+      "name": "👤 bust in silhouette - user",
+      "snippet": "👤",
+      "keyword": ":bust in silhouette:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👥 :people: (busts in silhouette)",
+      "snippet": "👥",
+      "keyword": ":people:"
+    },
+    "newSnippet": {
+      "name": "👥 busts in silhouette - users group team",
+      "snippet": "👥",
+      "keyword": ":busts in silhouette:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👫 :man woman couple:",
+      "snippet": "👫",
+      "keyword": ":man woman couple:"
+    },
+    "newSnippet": {
+      "name": "👫 couple - date",
+      "snippet": "👫",
+      "keyword": ":couple:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👬 :man man couple:",
+      "snippet": "👬",
+      "keyword": ":man man couple:"
+    },
+    "newSnippet": {
+      "name": "👬 two men holding hands - couple date",
+      "snippet": "👬",
+      "keyword": ":two men holding hands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👭 :woman woman couple:",
+      "snippet": "👭",
+      "keyword": ":woman woman couple:"
+    },
+    "newSnippet": {
+      "name": "👭 two women holding hands - couple date",
+      "snippet": "👭",
+      "keyword": ":two women holding hands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👰 :bride: (with veil)",
+      "snippet": "👰",
+      "keyword": ":bride:"
+    },
+    "newSnippet": {
+      "name": "👰 bride with veil - marriage wedding",
+      "snippet": "👰",
+      "keyword": ":bride with veil:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👲 :gua pi mao:",
+      "snippet": "👲",
+      "keyword": ":gua pi mao:"
+    },
+    "newSnippet": {
+      "name": "👲 man with gua pi mao ",
+      "snippet": "👲",
+      "keyword": ":man with gua pi mao:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👳 :turban:",
+      "snippet": "👳",
+      "keyword": ":turban:"
+    },
+    "newSnippet": {
+      "name": "👳 man with turban ",
+      "snippet": "👳",
+      "keyword": ":man with turban:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👴 :old man:",
+      "snippet": "👴",
+      "keyword": ":old man:"
+    },
+    "newSnippet": {
+      "name": "👴 older man ",
+      "snippet": "👴",
+      "keyword": ":older man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👵 :old woman:",
+      "snippet": "👵",
+      "keyword": ":old woman:"
+    },
+    "newSnippet": {
+      "name": "👵 older woman ",
+      "snippet": "👵",
+      "keyword": ":older woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👹 :ogre: (japanese)",
+      "snippet": "👹",
+      "keyword": ":ogre:"
+    },
+    "newSnippet": {
+      "name": "👹 japanese ogre - monster",
+      "snippet": "👹",
+      "keyword": ":japanese ogre:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "👺 :goblin: (japanese)",
+      "snippet": "👺",
+      "keyword": ":goblin:"
+    },
+    "newSnippet": {
+      "name": "👺 japanese goblin ",
+      "snippet": "👺",
+      "keyword": ":japanese goblin:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💁 :sass: (information desk person)",
+      "snippet": "💁",
+      "keyword": ":sass:"
+    },
+    "newSnippet": {
+      "name": "💁 tipping hand woman information desk person sassy woman ",
+      "snippet": "💁",
+      "keyword": ":tipping hand woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💂 :guard:",
+      "snippet": "💂",
+      "keyword": ":guard:"
+    },
+    "newSnippet": {
+      "name": "💂 guardsman ",
+      "snippet": "💂",
+      "keyword": ":guardsman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💏 :couple kiss:",
+      "snippet": "💏",
+      "keyword": ":couple kiss:"
+    },
+    "newSnippet": {
+      "name": "💏 couplekiss man woman ",
+      "snippet": "💏",
+      "keyword": ":couplekiss man woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💑 :couple heart:",
+      "snippet": "💑",
+      "keyword": ":couple heart:"
+    },
+    "newSnippet": {
+      "name": "💑 couple with heart woman man couple with heart ",
+      "snippet": "💑",
+      "keyword": ":couple with heart woman man:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💠 :diamond shape:",
+      "snippet": "💠",
+      "keyword": ":diamond shape:"
+    },
+    "newSnippet": {
+      "name": "💠 diamond shape with a dot inside ",
+      "snippet": "💠",
+      "keyword": ":diamond shape with a dot inside:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💪 :flex:",
+      "snippet": "💪",
+      "keyword": ":flex:"
+    },
+    "newSnippet": {
+      "name": "💪 muscle - flex bicep strong workout",
+      "snippet": "💪",
+      "keyword": ":muscle:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💫 :dizzy star:",
+      "snippet": "💫",
+      "keyword": ":dizzy star:"
+    },
+    "newSnippet": {
+      "name": "💫 dizzy - star",
+      "snippet": "💫",
+      "keyword": ":dizzy:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💬 :speech: (bubble / balloon)",
+      "snippet": "💬",
+      "keyword": ":speech:"
+    },
+    "newSnippet": {
+      "name": "💬 speech balloon - comment",
+      "snippet": "💬",
+      "keyword": ":speech balloon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💭 :thought: (bubble / balloon)",
+      "snippet": "💭",
+      "keyword": ":thought:"
+    },
+    "newSnippet": {
+      "name": "💭 thought balloon - thinking",
+      "snippet": "💭",
+      "keyword": ":thought balloon:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "💸 :money: (wings)",
+      "snippet": "💸",
+      "keyword": ":money:"
+    },
+    "newSnippet": {
+      "name": "💸 money with wings - dollar",
+      "snippet": "💸",
+      "keyword": ":money with wings:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📁 :folder: (files)",
+      "snippet": "📁",
+      "keyword": ":folder:"
+    },
+    "newSnippet": {
+      "name": "📁 file folder - directory",
+      "snippet": "📁",
+      "keyword": ":file folder:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📂 :open folder: (files)",
+      "snippet": "📂",
+      "keyword": ":open folder:"
+    },
+    "newSnippet": {
+      "name": "📂 open file folder ",
+      "snippet": "📂",
+      "keyword": ":open file folder:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📃 :page curl:",
+      "snippet": "📃",
+      "keyword": ":page curl:"
+    },
+    "newSnippet": {
+      "name": "📃 page with curl ",
+      "snippet": "📃",
+      "keyword": ":page with curl:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📄 :page:",
+      "snippet": "📄",
+      "keyword": ":page:"
+    },
+    "newSnippet": {
+      "name": "📄 page facing up - document",
+      "snippet": "📄",
+      "keyword": ":page facing up:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📈 :trending up: (chart)",
+      "snippet": "📈",
+      "keyword": ":trending up:"
+    },
+    "newSnippet": {
+      "name": "📈 chart with upwards trend - graph metrics",
+      "snippet": "📈",
+      "keyword": ":chart with upwards trend:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📉 :trending down: (chart)",
+      "snippet": "📉",
+      "keyword": ":trending down:"
+    },
+    "newSnippet": {
+      "name": "📉 chart with downwards trend - graph metrics",
+      "snippet": "📉",
+      "keyword": ":chart with downwards trend:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📏 :ruler:",
+      "snippet": "📏",
+      "keyword": ":ruler:"
+    },
+    "newSnippet": {
+      "name": "📏 straight ruler ",
+      "snippet": "📏",
+      "keyword": ":straight ruler:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📐 :triangle ruler:",
+      "snippet": "📐",
+      "keyword": ":triangle ruler:"
+    },
+    "newSnippet": {
+      "name": "📐 triangular ruler ",
+      "snippet": "📐",
+      "keyword": ":triangular ruler:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📔 :notebook2:",
+      "snippet": "📔",
+      "keyword": ":notebook2:"
+    },
+    "newSnippet": {
+      "name": "📔 notebook with decorative cover ",
+      "snippet": "📔",
+      "keyword": ":notebook with decorative cover:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📡 :antenna: (satellite)",
+      "snippet": "📡",
+      "keyword": ":antenna:"
+    },
+    "newSnippet": {
+      "name": "📡 satellite - signal",
+      "snippet": "📡",
+      "keyword": ":satellite:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📤 :outbox: (tray)",
+      "snippet": "📤",
+      "keyword": ":outbox:"
+    },
+    "newSnippet": {
+      "name": "📤 outbox tray ",
+      "snippet": "📤",
+      "keyword": ":outbox tray:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📥 :inbox: (tray)",
+      "snippet": "📥",
+      "keyword": ":inbox:"
+    },
+    "newSnippet": {
+      "name": "📥 inbox tray ",
+      "snippet": "📥",
+      "keyword": ":inbox tray:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📩 :envelope arrow:",
+      "snippet": "📩",
+      "keyword": ":envelope arrow:"
+    },
+    "newSnippet": {
+      "name": "📩 envelope with arrow ",
+      "snippet": "📩",
+      "keyword": ":envelope with arrow:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📬 :mailbox mail:",
+      "snippet": "📬",
+      "keyword": ":mailbox mail:"
+    },
+    "newSnippet": {
+      "name": "📬 mailbox with mail ",
+      "snippet": "📬",
+      "keyword": ":mailbox with mail:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📭 :mailbox no mail:",
+      "snippet": "📭",
+      "keyword": ":mailbox no mail:"
+    },
+    "newSnippet": {
+      "name": "📭 mailbox with no mail ",
+      "snippet": "📭",
+      "keyword": ":mailbox with no mail:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📳 :vibrate:",
+      "snippet": "📳",
+      "keyword": ":vibrate:"
+    },
+    "newSnippet": {
+      "name": "📳 vibration mode ",
+      "snippet": "📳",
+      "keyword": ":vibration mode:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📶 :signal:",
+      "snippet": "📶",
+      "keyword": ":signal:"
+    },
+    "newSnippet": {
+      "name": "📶 signal strength - wifi",
+      "snippet": "📶",
+      "keyword": ":signal strength:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "📽 :projector: (film)",
+      "snippet": "📽",
+      "keyword": ":projector:"
+    },
+    "newSnippet": {
+      "name": "📽 film projector ",
+      "snippet": "📽",
+      "keyword": ":film projector:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔌 :plug: (electric)",
+      "snippet": "🔌",
+      "keyword": ":plug:"
+    },
+    "newSnippet": {
+      "name": "🔌 electric plug ",
+      "snippet": "🔌",
+      "keyword": ":electric plug:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔎 :mag2: (magnify)",
+      "snippet": "🔎",
+      "keyword": ":mag2:"
+    },
+    "newSnippet": {
+      "name": "🔎 mag right ",
+      "snippet": "🔎",
+      "keyword": ":mag right:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔏 :lock pen:",
+      "snippet": "🔏",
+      "keyword": ":lock pen:"
+    },
+    "newSnippet": {
+      "name": "🔏 lock with ink pen ",
+      "snippet": "🔏",
+      "keyword": ":lock with ink pen:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔐 :lock key:",
+      "snippet": "🔐",
+      "keyword": ":lock key:"
+    },
+    "newSnippet": {
+      "name": "🔐 closed lock with key - security",
+      "snippet": "🔐",
+      "keyword": ":closed lock with key:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🔠 :ABCD:",
+      "snippet": "🔠",
+      "keyword": ":ABCD:"
+    },
+    "newSnippet": {
+      "name": "🔠 capital abcd - letters",
+      "snippet": "🔠",
+      "keyword": ":capital abcd:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕊 :peace: (dove)",
+      "snippet": "🕊",
+      "keyword": ":peace:"
+    },
+    "newSnippet": {
+      "name": "🕊 dove - peace",
+      "snippet": "🕊",
+      "keyword": ":dove:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕰 :mantelpiece: (clock)",
+      "snippet": "🕰",
+      "keyword": ":mantelpiece:"
+    },
+    "newSnippet": {
+      "name": "🕰 mantelpiece clock ",
+      "snippet": "🕰",
+      "keyword": ":mantelpiece clock:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕴 :man in business suit levitating: (lol what)",
+      "snippet": "🕴",
+      "keyword": ":man in business suit levitating:"
+    },
+    "newSnippet": {
+      "name": "🕴 business suit levitating ",
+      "snippet": "🕴",
+      "keyword": ":business suit levitating:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕵 :spy: (sleuth)",
+      "snippet": "🕵",
+      "keyword": ":spy:"
+    },
+    "newSnippet": {
+      "name": "🕵 male detective detective - sleuth",
+      "snippet": "🕵",
+      "keyword": ":male detective:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕶 :sunglasses2:",
+      "snippet": "🕶",
+      "keyword": ":sunglasses2:"
+    },
+    "newSnippet": {
+      "name": "🕶 dark sunglasses ",
+      "snippet": "🕶",
+      "keyword": ":dark sunglasses:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🕸 :web: (spider)",
+      "snippet": "🕸",
+      "keyword": ":web:"
+    },
+    "newSnippet": {
+      "name": "🕸 spider web ",
+      "snippet": "🕸",
+      "keyword": ":spider web:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖊 :ballpoint pen:",
+      "snippet": "🖊",
+      "keyword": ":ballpoint pen:"
+    },
+    "newSnippet": {
+      "name": "🖊 pen ",
+      "snippet": "🖊",
+      "keyword": ":pen:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖐 :raised hand2: (fingers splayed)",
+      "snippet": "🖐",
+      "keyword": ":raised hand2:"
+    },
+    "newSnippet": {
+      "name": "🖐 raised hand with fingers splayed ",
+      "snippet": "🖐",
+      "keyword": ":raised hand with fingers splayed:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖕 :fu: (fuck you)",
+      "snippet": "🖕",
+      "keyword": ":fu:"
+    },
+    "newSnippet": {
+      "name": "🖕 middle finger fu ",
+      "snippet": "🖕",
+      "keyword": ":middle finger:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖕 :the bird:",
+      "snippet": "🖕",
+      "keyword": ":the bird:"
+    },
+    "newSnippet": {
+      "name": "🖕 middle finger fu ",
+      "snippet": "🖕",
+      "keyword": ":middle finger:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖖 :spock: (hand)",
+      "snippet": "🖖",
+      "keyword": ":spock:"
+    },
+    "newSnippet": {
+      "name": "🖖 vulcan salute - prosper spock",
+      "snippet": "🖖",
+      "keyword": ":vulcan salute:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🖥 :monitor: (desktop computer)",
+      "snippet": "🖥",
+      "keyword": ":monitor:"
+    },
+    "newSnippet": {
+      "name": "🖥 desktop computer ",
+      "snippet": "🖥",
+      "keyword": ":desktop computer:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗣 :speaking: (silhouette)",
+      "snippet": "🗣",
+      "keyword": ":speaking:"
+    },
+    "newSnippet": {
+      "name": "🗣 speaking head ",
+      "snippet": "🗣",
+      "keyword": ":speaking head:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗨 :speech2: (bubble / balloon)",
+      "snippet": "🗨",
+      "keyword": ":speech2:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗯 :anger bubble:",
+      "snippet": "🗯",
+      "keyword": ":anger bubble:"
+    },
+    "newSnippet": {
+      "name": "🗯 right anger bubble ",
+      "snippet": "🗯",
+      "keyword": ":right anger bubble:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗳 :ballot: (box)",
+      "snippet": "🗳",
+      "keyword": ":ballot:"
+    },
+    "newSnippet": {
+      "name": "🗳 ballot box ",
+      "snippet": "🗳",
+      "keyword": ":ballot box:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🗺 :map: (world)",
+      "snippet": "🗺",
+      "keyword": ":map:"
+    },
+    "newSnippet": {
+      "name": "🗺 world map - travel",
+      "snippet": "🗺",
+      "keyword": ":world map:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😙 :kissing smiling:",
+      "snippet": "😙",
+      "keyword": ":kissing smiling:"
+    },
+    "newSnippet": {
+      "name": "😙 kissing smiling eyes ",
+      "snippet": "😙",
+      "keyword": ":kissing smiling eyes:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😛 :tongue face: (stuck out tongue)",
+      "snippet": "😛",
+      "keyword": ":tongue face:"
+    },
+    "newSnippet": {
+      "name": "😛 stuck out tongue ",
+      "snippet": "😛",
+      "keyword": ":stuck out tongue:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😜 :tongue winking:",
+      "snippet": "😜",
+      "keyword": ":tongue winking:"
+    },
+    "newSnippet": {
+      "name": "😜 stuck out tongue winking eye - prank silly",
+      "snippet": "😜",
+      "keyword": ":stuck out tongue winking eye:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😝 :tongue closed eyes:",
+      "snippet": "😝",
+      "keyword": ":tongue closed eyes:"
+    },
+    "newSnippet": {
+      "name": "😝 stuck out tongue closed eyes - prank",
+      "snippet": "😝",
+      "keyword": ":stuck out tongue closed eyes:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😫 :tired:",
+      "snippet": "😫",
+      "keyword": ":tired:"
+    },
+    "newSnippet": {
+      "name": "😫 tired face - upset whine",
+      "snippet": "😫",
+      "keyword": ":tired face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😬 :grimace:",
+      "snippet": "😬",
+      "keyword": ":grimace:"
+    },
+    "newSnippet": {
+      "name": "😬 grimacing ",
+      "snippet": "😬",
+      "keyword": ":grimacing:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😽 :kiss cat:",
+      "snippet": "😽",
+      "keyword": ":kiss cat:"
+    },
+    "newSnippet": {
+      "name": "😽 kissing cat ",
+      "snippet": "😽",
+      "keyword": ":kissing cat:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😾 :pout cat:",
+      "snippet": "😾",
+      "keyword": ":pout cat:"
+    },
+    "newSnippet": {
+      "name": "😾 pouting cat ",
+      "snippet": "😾",
+      "keyword": ":pouting cat:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "😿 :cry cat:",
+      "snippet": "😿",
+      "keyword": ":cry cat:"
+    },
+    "newSnippet": {
+      "name": "😿 crying cat face - sad tear",
+      "snippet": "😿",
+      "keyword": ":crying cat face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙁 :slight frown:",
+      "snippet": "🙁",
+      "keyword": ":slight frown:"
+    },
+    "newSnippet": {
+      "name": "🙁 slightly frowning face ",
+      "snippet": "🙁",
+      "keyword": ":slightly frowning face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙂 :slight smile:",
+      "snippet": "🙂",
+      "keyword": ":slight smile:"
+    },
+    "newSnippet": {
+      "name": "🙂 slightly smiling face ",
+      "snippet": "🙂",
+      "keyword": ":slightly smiling face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙃 :joel:",
+      "snippet": "🙃",
+      "keyword": ":joel:"
+    },
+    "newSnippet": {
+      "name": "🙃 upside down face ",
+      "snippet": "🙃",
+      "keyword": ":upside down face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙃 :upside down:",
+      "snippet": "🙃",
+      "keyword": ":upside down:"
+    },
+    "newSnippet": {
+      "name": "🙃 upside down face ",
+      "snippet": "🙃",
+      "keyword": ":upside down face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙄 :eyeroll:",
+      "snippet": "🙄",
+      "keyword": ":eyeroll:"
+    },
+    "newSnippet": {
+      "name": "🙄 roll eyes ",
+      "snippet": "🙄",
+      "keyword": ":roll eyes:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙄 :rolling eyes:",
+      "snippet": "🙄",
+      "keyword": ":rolling eyes:"
+    },
+    "newSnippet": {
+      "name": "🙄 roll eyes ",
+      "snippet": "🙄",
+      "keyword": ":roll eyes:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙅 :nope:",
+      "snippet": "🙅",
+      "keyword": ":nope:"
+    },
+    "newSnippet": {
+      "name": "🙅 no good woman no good ng woman - stop halt",
+      "snippet": "🙅",
+      "keyword": ":no good woman:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙌 :hands:",
+      "snippet": "🙌",
+      "keyword": ":hands:"
+    },
+    "newSnippet": {
+      "name": "🙌 raised hands - hooray",
+      "snippet": "🙌",
+      "keyword": ":raised hands:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🙏 :thanks:",
+      "snippet": "🙏",
+      "keyword": ":thanks:"
+    },
+    "newSnippet": {
+      "name": "🙏 pray - please hope wish",
+      "snippet": "🙏",
+      "keyword": ":pray:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚂 :locomotive: (steam)",
+      "snippet": "🚂",
+      "keyword": ":locomotive:"
+    },
+    "newSnippet": {
+      "name": "🚂 steam locomotive - train",
+      "snippet": "🚂",
+      "keyword": ":steam locomotive:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚍 :bus2:",
+      "snippet": "🚍",
+      "keyword": ":bus2:"
+    },
+    "newSnippet": {
+      "name": "🚍 oncoming bus ",
+      "snippet": "🚍",
+      "keyword": ":oncoming bus:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚎 :trolley bus:",
+      "snippet": "🚎",
+      "keyword": ":trolley bus:"
+    },
+    "newSnippet": {
+      "name": "🚎 trolleybus ",
+      "snippet": "🚎",
+      "keyword": ":trolleybus:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚏 :bus stop:",
+      "snippet": "🚏",
+      "keyword": ":bus stop:"
+    },
+    "newSnippet": {
+      "name": "🚏 busstop ",
+      "snippet": "🚏",
+      "keyword": ":busstop:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚒 :fire truck: (engine)",
+      "snippet": "🚒",
+      "keyword": ":fire truck:"
+    },
+    "newSnippet": {
+      "name": "🚒 fire engine ",
+      "snippet": "🚒",
+      "keyword": ":fire engine:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚓 :police:",
+      "snippet": "🚓",
+      "keyword": ":police:"
+    },
+    "newSnippet": {
+      "name": "🚓 police car ",
+      "snippet": "🚓",
+      "keyword": ":police car:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚔 :police2:",
+      "snippet": "🚔",
+      "keyword": ":police2:"
+    },
+    "newSnippet": {
+      "name": "🚔 oncoming police car ",
+      "snippet": "🚔",
+      "keyword": ":oncoming police car:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚖 :taxi2:",
+      "snippet": "🚖",
+      "keyword": ":taxi2:"
+    },
+    "newSnippet": {
+      "name": "🚖 oncoming taxi ",
+      "snippet": "🚖",
+      "keyword": ":oncoming taxi:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚘 :car2:",
+      "snippet": "🚘",
+      "keyword": ":car2:"
+    },
+    "newSnippet": {
+      "name": "🚘 oncoming automobile ",
+      "snippet": "🚘",
+      "keyword": ":oncoming automobile:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚛 :lorry: (articulated)",
+      "snippet": "🚛",
+      "keyword": ":lorry:"
+    },
+    "newSnippet": {
+      "name": "🚛 articulated lorry ",
+      "snippet": "🚛",
+      "keyword": ":articulated lorry:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🚩 :flagpost:",
+      "snippet": "🚩",
+      "keyword": ":flagpost:"
+    },
+    "newSnippet": {
+      "name": "🚩 triangular flag on post ",
+      "snippet": "🚩",
+      "keyword": ":triangular flag on post:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛌 :sleeping2:",
+      "snippet": "🛌",
+      "keyword": ":sleeping2:"
+    },
+    "newSnippet": {
+      "name": "🛌 sleeping bed ",
+      "snippet": "🛌",
+      "keyword": ":sleeping bed:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛎 :bellhop:",
+      "snippet": "🛎",
+      "keyword": ":bellhop:"
+    },
+    "newSnippet": {
+      "name": "🛎 bellhop bell ",
+      "snippet": "🛎",
+      "keyword": ":bellhop bell:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛐 :worship: (place)",
+      "snippet": "🛐",
+      "keyword": ":worship:"
+    },
+    "newSnippet": {
+      "name": "🛐 place of worship ",
+      "snippet": "🛐",
+      "keyword": ":place of worship:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛩 :small plane:",
+      "snippet": "🛩",
+      "keyword": ":small plane:"
+    },
+    "newSnippet": {
+      "name": "🛩 small airplane - flight",
+      "snippet": "🛩",
+      "keyword": ":small airplane:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛫 :plane departure:",
+      "snippet": "🛫",
+      "keyword": ":plane departure:"
+    },
+    "newSnippet": {
+      "name": "🛫 flight departure ",
+      "snippet": "🛫",
+      "keyword": ":flight departure:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🛬 :plane arriving:",
+      "snippet": "🛬",
+      "keyword": ":plane arriving:"
+    },
+    "newSnippet": {
+      "name": "🛬 flight arrival ",
+      "snippet": "🛬",
+      "keyword": ":flight arrival:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤐 :zipper mouth:",
+      "snippet": "🤐",
+      "keyword": ":zipper mouth:"
+    },
+    "newSnippet": {
+      "name": "🤐 zipper mouth face - silence hush",
+      "snippet": "🤐",
+      "keyword": ":zipper mouth face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤑 :money mouth:",
+      "snippet": "🤑",
+      "keyword": ":money mouth:"
+    },
+    "newSnippet": {
+      "name": "🤑 money mouth face - rich",
+      "snippet": "🤑",
+      "keyword": ":money mouth face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤒 :thermometer2:",
+      "snippet": "🤒",
+      "keyword": ":thermometer2:"
+    },
+    "newSnippet": {
+      "name": "🤒 face with thermometer - sick",
+      "snippet": "🤒",
+      "keyword": ":face with thermometer:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤓 :nerd:",
+      "snippet": "🤓",
+      "keyword": ":nerd:"
+    },
+    "newSnippet": {
+      "name": "🤓 nerd face - geek glasses",
+      "snippet": "🤓",
+      "keyword": ":nerd face:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤕 :bandage: (head)",
+      "snippet": "🤕",
+      "keyword": ":bandage:"
+    },
+    "newSnippet": {
+      "name": "🤕 face with head bandage - hurt",
+      "snippet": "🤕",
+      "keyword": ":face with head bandage:"
+    }
+  },
+  {
+    "originalSnippet": {
+      "name": "🤗 :hugging:",
+      "snippet": "🤗",
+      "keyword": ":hugging:"
+    },
+    "newSnippet": {
+      "name": "🤗 hugs ",
+      "snippet": "🤗",
+      "keyword": ":hugs:"
+    }
+  }
+]
