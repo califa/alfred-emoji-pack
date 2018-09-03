@@ -1,0 +1,17 @@
+{
+  "name": "alfred-emoji-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/build-snippets-archive/index.js",
+  "scripts": {
+    "build": "node src/build-snippets-archive/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "gemoji": "^4.2.1",
+    "uuid": "^3.3.2"
+  }
+}
