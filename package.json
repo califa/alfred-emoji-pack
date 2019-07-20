@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "archiver": "^2.1.1",
-    "gemoji": "^4.2.1",
+    "gemoji": "https://github.com/stefanzweifel/gemoji#add-unicode-11-12",
     "uuid": "^3.3.2"
   }
 }

@@ -124,9 +124,9 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
 
-gemoji@^4.2.1:
+"gemoji@https://github.com/stefanzweifel/gemoji#add-unicode-11-12":
   version "4.2.1"
-  resolved "https://registry.yarnpkg.com/gemoji/-/gemoji-4.2.1.tgz#88495f479a2e35a2c693e0ed321933372fc74c68"
+  resolved "https://github.com/stefanzweifel/gemoji#1f11a9dc2f140d518e8a48c6ac3f5171f1ef21b1"
 
 glob@^7.0.0:
   version "7.1.2"
