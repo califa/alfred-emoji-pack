@@ -30,7 +30,7 @@ getOriginalSnippets().then(snippets => {
         return {
             name: snippet.alfredsnippet.name,
             snippet: snippet.alfredsnippet.snippet,
-            keyword: snippet.alfredsnippet.keyword.replace(/_/g, ' ').trim(),
+            keyword: snippet.alfredsnippet.keyword.replace(/_/g, ' '),
         }
     })
 
