@@ -17,6 +17,7 @@ module.exports = function (snippets) {
         });
     });
 
+    archive.file('src/info.plist', { name: 'info.plist' });
     archive.file('src/icon.png', { name: 'icon.png' });
 
     archive.finalize();

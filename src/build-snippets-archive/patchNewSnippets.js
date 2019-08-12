@@ -18,7 +18,7 @@ module.exports = function (newSnippets) {
                     snippet: snippet.originalSnippet.snippet,
                     uid: uuidv4(),
                     name: snippet.originalSnippet.name.replace(/:/g, ''),
-                    keyword: snippet.originalSnippet.keyword,
+                    keyword: snippet.originalSnippet.keyword.replace(/:/g, ''),
                 }
             });
         });
