@@ -19,7 +19,7 @@ module.exports = function () {
             alfredsnippet: {
                 snippet: emoji.emoji,
                 uid: uuid,
-                name: `${emoji.emoji} ${names} ${tags ? `- ${tags}` : ``}`,
+                name: `${emoji.emoji} ${names}${tags ? ` - ${tags}` : ``}`,
                 keyword: `:${emoji.name}:`
             }
         };
