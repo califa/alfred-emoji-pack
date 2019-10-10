@@ -24,7 +24,7 @@ module.exports = [
             snippet: "🤯",
             uid: uuidv4(),
             name: '🤯 mind blown',
-            keyword: ':mind_blown:'
+            keyword: 'mind_blown'
         }
     },
     {
@@ -32,7 +32,7 @@ module.exports = [
             snippet: "🤮",
             uid: uuidv4(),
             name: '🤮 vomiting face',
-            keyword: ':vomiting_face:'
+            keyword: 'vomiting_face'
         }
     },
     {
@@ -40,7 +40,7 @@ module.exports = [
             snippet: "🤫",
             uid: uuidv4(),
             name: '🤫 shushing',
-            keyword: ':shushing:'
+            keyword: 'shushing'
         }
     },
     {
@@ -48,7 +48,7 @@ module.exports = [
             snippet: "🧐",
             uid: uuidv4(),
             name: '🧐 monocle',
-            keyword: ':monocle:'
+            keyword: 'monocle'
         }
     },
     {
@@ -56,7 +56,7 @@ module.exports = [
             snippet: "🦖",
             uid: uuidv4(),
             name: '🦖 t-rex',
-            keyword: ':t_rex:'
+            keyword: 't_rex'
         }
     },
     {
@@ -64,7 +64,7 @@ module.exports = [
             snippet: "🥥",
             uid: uuidv4(),
             name: '🥥 coconut',
-            keyword: ':coconut:'
+            keyword: 'coconut'
         }
     },
 ];

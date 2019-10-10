@@ -20,7 +20,7 @@ module.exports = function () {
                 snippet: emoji.emoji,
                 uid: uuid,
                 name: `${emoji.emoji} ${names} ${tags ? `- ${tags}` : ``}`,
-                keyword: `:${emoji.name}:`
+                keyword: `${emoji.name}`
             }
         };
 
