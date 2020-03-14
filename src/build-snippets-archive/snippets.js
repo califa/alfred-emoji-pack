@@ -1,5 +1,5 @@
 const gemoji = require('gemoji');
-const uuidv4 = require('uuid/v4');
+const { v4: uuidv4 } = require('uuid');
 const otherSnippets = require('./otherSnippetsAndEmojis.js');
 const emojiToName = require('gemoji/emoji-to-name.json');
 
