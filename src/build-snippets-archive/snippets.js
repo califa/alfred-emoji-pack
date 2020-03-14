@@ -1,26 +1,27 @@
 const gemoji = require('gemoji');
 const uuidv4 = require('uuid/v4');
 const otherSnippets = require('./otherSnippetsAndEmojis.js');
+const emojiToName = require('gemoji/emoji-to-name.json');
 
 module.exports = function () {
 
     let snippets = [];
 
-    Object.keys(gemoji.name).forEach((emojiName) => {
+    gemoji.forEach((emojiDetails) => {
 
-        let emoji = gemoji.name[emojiName];
+        let emoji = emojiDetails.emoji;
         let uuid = uuidv4();
 
-        let names = emoji.names.join(' ').replace(/_/g, ' ');
-        let tags = emoji.tags.join(' ');
+        let names = emojiDetails.names.join(' ').replace(/_/g, ' ');
+        let tags = emojiDetails.tags.join(' ');
 
         // Build JSON used by Alfred
         let snippetContent = {
             alfredsnippet: {
-                snippet: emoji.emoji,
+                snippet: emoji,
                 uid: uuid,
-                name: `${emoji.emoji} ${names} ${tags ? `- ${tags}` : ``}`,
-                keyword: `:${emoji.name}:`
+                name: `${emoji} ${names} ${tags ? `- ${tags}` : ``}`,
+                keyword: `:${emojiToName[emoji]}:`
             }
         };
 
