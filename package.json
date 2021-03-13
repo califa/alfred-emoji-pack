@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": "https://github.com/califa/alfred-emoji-pack",
   "dependencies": {
     "archiver": "^3.1.1",
-    "gemoji": "^5.0.0",
+    "gemoji": "^6.1.0",
     "uuid": "^7.0.2"
   }
 }
