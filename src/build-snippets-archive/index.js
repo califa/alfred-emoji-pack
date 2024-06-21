@@ -1,6 +1,6 @@
-const createNewSnippets = require('./snippets.js');
-const archiveBuilder = require('./archiveBuilder.js');
-const patchNewSnippets = require('./patchNewSnippets.js');
+import createNewSnippets from './snippets.js';
+import archiveBuilder from './archiveBuilder.js';
+import patchNewSnippets from './patchNewSnippets.js';
 
 let snippets = createNewSnippets();
 

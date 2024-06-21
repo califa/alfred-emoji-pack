@@ -1,37 +1,37 @@
-const gemoji = require('gemoji');
-const { v4: uuidv4 } = require('uuid');
-const otherSnippets = require('./otherSnippetsAndEmojis.js');
-const emojiToName = require('gemoji/emoji-to-name.json');
+import { gemoji, emojiToName } from 'gemoji';
+import { v4 as uuidv4 } from 'uuid';
 
-module.exports = function () {
+import { otherSnippets } from './otherSnippetsAndEmojis.js';
 
-    let snippets = [];
+export default function () {
 
-    gemoji.forEach((emojiDetails) => {
+  let snippets = [];
 
-        let emoji = emojiDetails.emoji;
-        let uuid = uuidv4();
+  gemoji.forEach((emojiDetails) => {
 
-        let names = emojiDetails.names.join(' ').replace(/_/g, ' ');
-        let tags = emojiDetails.tags.join(' ');
+    let emoji = emojiDetails.emoji;
+    let uuid = uuidv4();
 
-        // Build JSON used by Alfred
-        let snippetContent = {
-            alfredsnippet: {
-                snippet: emoji,
-                uid: uuid,
-                name: `${emoji} ${names} ${tags ? `- ${tags}` : ``}`,
-                keyword: `:${emojiToName[emoji]}:`
-            }
-        };
+    let names = emojiDetails.names.join(' ').replace(/_/g, ' ');
+    let tags = emojiDetails.tags.join(' ');
 
-        snippets.push(snippetContent);
-    });
+    // Build JSON used by Alfred
+    let snippetContent = {
+      alfredsnippet: {
+        snippet: emoji,
+        uid: uuid,
+        name: `${emoji} ${names} ${tags ? `- ${tags}` : ``}`,
+        keyword: `:${emojiToName[emoji]}:`
+      }
+    };
 
-    otherSnippets.forEach(snippet => snippets.push(snippet));
+    snippets.push(snippetContent);
+  });
 
-    // Remove Duplicate Snippets
-    return snippets.filter((obj, pos, arr) => {
-        return arr.map(mapObj => mapObj.alfredsnippet.snippet).indexOf(obj.alfredsnippet.snippet) === pos;
-    })
+  otherSnippets.forEach(snippet => snippets.push(snippet));
+
+  // Remove Duplicate Snippets
+  return snippets.filter((obj, pos, arr) => {
+    return arr.map(mapObj => mapObj.alfredsnippet.snippet).indexOf(obj.alfredsnippet.snippet) === pos;
+  })
 }
